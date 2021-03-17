@@ -26,6 +26,7 @@
 
 ## PHP
 
+*   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 *   [delight-im/PHP-Auth](https://github.com/delight-im/PHP-Auth) - Authentication for PHP. Simple, lightweight and secure.
 *   [symfony/polyfill-php72](https://github.com/symfony/polyfill-php72) - This component provides functions added to PHP 7.2 core.
 *   [symfony/polyfill](https://github.com/symfony/polyfill) - PHP polyfills
@@ -122,7 +123,6 @@
 *   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Your Own URL Shortener
 *   [norcross/yourls-link-creator](https://github.com/norcross/yourls-link-creator) - A plugin to create a YOURLS link on post save
 *   [gwarnants/FunctionList-PHP-Patch](https://github.com/gwarnants/FunctionList-PHP-Patch) - PHP/CSS languages parsing rules for the Notepad++ FunctionList plugin
-*   [WordPress/Requests](https://github.com/WordPress/Requests) - Requests for PHP is a humble HTTP request library. It simplifies how you interact with other sites and takes away all your worries.
 
 ## generic
 
