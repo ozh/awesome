@@ -13,10 +13,10 @@
 *   [CSS](#css)
 *   [Visual Basic](#visual-basic)
 *   [Java](#java)
+*   [SCSS](#scss)
 *   [Makefile](#makefile)
 *   [HTML](#html)
 *   [C++](#c-1)
-*   [SCSS](#scss)
 *   [CoffeeScript](#coffeescript)
 *   [TypeScript](#typescript)
 *   [Arduino](#arduino)
@@ -236,7 +236,6 @@
 
 *   [Flynntes/Sleeky](https://github.com/Flynntes/Sleeky) - 🎨 A sleek and simple frontend & backend theme for YOURLS
 *   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
-*   [LeoColomb/perfectmotherfuckingwebsite](https://github.com/LeoColomb/perfectmotherfuckingwebsite) - 🖕 And it's really more fucking perfect than the last guy's.
 *   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 *   [jackrugile/placeholdem](https://github.com/jackrugile/placeholdem) - Placeholder Caret Animation
 *   [SuperFriendly/project-hub](https://github.com/SuperFriendly/project-hub) - Project Hub
@@ -259,6 +258,11 @@
 ## Java
 
 *   [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
+
+## SCSS
+
+*   [LeoColomb/perfectmotherfuckingwebsite](https://github.com/LeoColomb/perfectmotherfuckingwebsite) - 🖕 And it's really more fucking perfect than the last guy's.
+*   [10up/Engineering-Best-Practices](https://github.com/10up/Engineering-Best-Practices) - 10up Engineering Best Practices
 
 ## Makefile
 
@@ -286,10 +290,6 @@
 *   [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 *   [mneudert/omgrofl-compiler](https://github.com/mneudert/omgrofl-compiler) - compiler/interpreter for omgrofl
 *   [eteeselink/cdhere](https://github.com/eteeselink/cdhere) - Change the current console directory to wherever you're looking at in Windows Explorer
-
-## SCSS
-
-*   [10up/Engineering-Best-Practices](https://github.com/10up/Engineering-Best-Practices) - 10up Engineering Best Practices
 
 ## CoffeeScript
 
