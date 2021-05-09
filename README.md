@@ -7,7 +7,6 @@
 *   [PHP](#php)
 *   [generic](#generic)
 *   [JavaScript](#javascript)
-*   [C](#c)
 *   [Shell](#shell)
 *   [Python](#python)
 *   [CSS](#css)
@@ -16,6 +15,7 @@
 *   [SCSS](#scss)
 *   [Makefile](#makefile)
 *   [HTML](#html)
+*   [C](#c)
 *   [C++](#c-1)
 *   [CoffeeScript](#coffeescript)
 *   [TypeScript](#typescript)
@@ -203,12 +203,7 @@
 *   [websanova/js-url](https://github.com/websanova/js-url) - url() - A simple, lightweight url parser for JavaScript
 *   [melanke/Watch.JS](https://github.com/melanke/Watch.JS) - watch the changes of any object or attribute
 *   [TradeMe/bootup.js](https://github.com/TradeMe/bootup.js) - Cache and load static files from local storage.
-
-## C
-
-*   [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
-*   [AOP-PHP/AOP](https://github.com/AOP-PHP/AOP) - AOP in PHP
-*   [FauxFaux/PuTTYTray](https://github.com/FauxFaux/PuTTYTray) - A continuation of Barry Haanstra (haanstra.eu)'s PuTTYTray
+*   [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 
 ## Shell
 
@@ -284,6 +279,11 @@
 *   [tysonmatanich/viewportSize](https://github.com/tysonmatanich/viewportSize) - Get the size of the CSS viewport using JavaScript.
 *   [johnpolacek/stacktable.js](https://github.com/johnpolacek/stacktable.js) - jQuery plugin for stacking tables on small screens
 *   [bradfrost/this-is-responsive](https://github.com/bradfrost/this-is-responsive) - This Is Responsive
+
+## C
+
+*   [AOP-PHP/AOP](https://github.com/AOP-PHP/AOP) - AOP in PHP
+*   [FauxFaux/PuTTYTray](https://github.com/FauxFaux/PuTTYTray) - A continuation of Barry Haanstra (haanstra.eu)'s PuTTYTray
 
 ## C++
 
