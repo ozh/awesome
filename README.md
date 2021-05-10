@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [PHP](#php)
 *   [generic](#generic)
 *   [JavaScript](#javascript)
@@ -23,6 +24,10 @@
 *   [Inno Setup](#inno-setup)
 *   [C#](#c-2)
 *   [Ruby](#ruby)
+
+## Rust
+
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 
 ## PHP
 
@@ -203,7 +208,6 @@
 *   [websanova/js-url](https://github.com/websanova/js-url) - url() - A simple, lightweight url parser for JavaScript
 *   [melanke/Watch.JS](https://github.com/melanke/Watch.JS) - watch the changes of any object or attribute
 *   [TradeMe/bootup.js](https://github.com/TradeMe/bootup.js) - Cache and load static files from local storage.
-*   [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 
 ## Shell
 
