@@ -13,11 +13,11 @@
 *   [CSS](#css)
 *   [Visual Basic](#visual-basic)
 *   [Java](#java)
-*   [SCSS](#scss)
-*   [Makefile](#makefile)
 *   [HTML](#html)
+*   [Makefile](#makefile)
 *   [C](#c)
 *   [C++](#c-1)
+*   [SCSS](#scss)
 *   [CoffeeScript](#coffeescript)
 *   [TypeScript](#typescript)
 *   [Arduino](#arduino)
@@ -258,17 +258,9 @@
 
 *   [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 
-## SCSS
-
-*   [LeoColomb/perfectmotherfuckingwebsite](https://github.com/LeoColomb/perfectmotherfuckingwebsite) - 🖕 And it's really more fucking perfect than the last guy's.
-*   [10up/Engineering-Best-Practices](https://github.com/10up/Engineering-Best-Practices) - 10up Engineering Best Practices
-
-## Makefile
-
-*   [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
-
 ## HTML
 
+*   [LeoColomb/perfectmotherfuckingwebsite](https://github.com/LeoColomb/perfectmotherfuckingwebsite) - 🖕 And it's really more fucking perfect than the last guy's.
 *   [LeaVerou/stretchy](https://github.com/LeaVerou/stretchy) - Form element autosizing, the way it should be.
 *   [twitter/twitter-text](https://github.com/twitter/twitter-text) - Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 *   [chriszarate/supergenpass](https://github.com/chriszarate/supergenpass) - A free bookmarklet password generator.
@@ -284,6 +276,10 @@
 *   [johnpolacek/stacktable.js](https://github.com/johnpolacek/stacktable.js) - jQuery plugin for stacking tables on small screens
 *   [bradfrost/this-is-responsive](https://github.com/bradfrost/this-is-responsive) - This Is Responsive
 
+## Makefile
+
+*   [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
+
 ## C
 
 *   [AOP-PHP/AOP](https://github.com/AOP-PHP/AOP) - AOP in PHP
@@ -294,6 +290,10 @@
 *   [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 *   [mneudert/omgrofl-compiler](https://github.com/mneudert/omgrofl-compiler) - compiler/interpreter for omgrofl
 *   [eteeselink/cdhere](https://github.com/eteeselink/cdhere) - Change the current console directory to wherever you're looking at in Windows Explorer
+
+## SCSS
+
+*   [10up/Engineering-Best-Practices](https://github.com/10up/Engineering-Best-Practices) - 10up Engineering Best Practices
 
 ## CoffeeScript
 
