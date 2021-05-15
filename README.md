@@ -10,8 +10,9 @@
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Python](#python)
-*   [CSS](#css)
+*   [Less](#less)
 *   [Visual Basic](#visual-basic)
+*   [CSS](#css)
 *   [Java](#java)
 *   [HTML](#html)
 *   [Makefile](#makefile)
@@ -231,9 +232,16 @@
 *   [somerandomdude/Iconic](https://github.com/somerandomdude/Iconic) - A minimal set of icons in raster, vector and font formats — free for public use.
 *   [Paaskehare/PyQL](https://github.com/Paaskehare/PyQL) - A QuakeLive Python Library for fetching user information
 
-## CSS
+## Less
 
 *   [Flynntes/Sleeky](https://github.com/Flynntes/Sleeky) - 🎨 A sleek and simple frontend & backend theme for YOURLS
+
+## Visual Basic
+
+*   [AyrA/ExcelStuff](https://github.com/AyrA/ExcelStuff) - Various Tools in Excel
+
+## CSS
+
 *   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
 *   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 *   [jackrugile/placeholdem](https://github.com/jackrugile/placeholdem) - Placeholder Caret Animation
@@ -249,10 +257,6 @@
 *   [webpop/jquery.pin](https://github.com/webpop/jquery.pin) - Pin any element within a container
 *   [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 *   [guillaumepotier/Garlic.js](https://github.com/guillaumepotier/Garlic.js) - Automatically persist your forms' text and select field values locally, until the form is submitted.
-
-## Visual Basic
-
-*   [AyrA/ExcelStuff](https://github.com/AyrA/ExcelStuff) - Various Tools in Excel
 
 ## Java
 
