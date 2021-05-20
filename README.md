@@ -281,7 +281,7 @@
 *   [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
 *   [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 *   [BlackrockDigital/startbootstrap](https://github.com/BlackrockDigital/startbootstrap) - A library of free and open source Bootstrap themes and templates
-*   [usablica/intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
+*   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 *   [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
 *   [tysonmatanich/viewportSize](https://github.com/tysonmatanich/viewportSize) - Get the size of the CSS viewport using JavaScript.
 *   [johnpolacek/stacktable.js](https://github.com/johnpolacek/stacktable.js) - jQuery plugin for stacking tables on small screens
