@@ -45,7 +45,6 @@
 *   [benedfit/sparkicons](https://github.com/benedfit/sparkicons) - From the mind of  Mark Boulton - "I’m defining a Sparkicon as a small, inline icon with additional link meta data to describe either the content and/or the behaviour when the user clicks the link."
 *   [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
 *   [ericandrewlewis/web-development-contract](https://github.com/ericandrewlewis/web-development-contract) - Web Development Contract
-*   [w0ng/googlefontdirectory](https://github.com/w0ng/googlefontdirectory) - Obsolete. Use https://github.com/google/fonts
 *   [YOURLS/YOURLS.pot](https://github.com/YOURLS/YOURLS.pot) - 🌍 Official YOURLS .pot file to create and maintain your own YOURLS translation
 *   [ozh/YOURLS-fr_FR](https://github.com/ozh/YOURLS-fr_FR) - Traduction française de YOURLS
 *   [contributions/contributions](https://github.com/contributions/contributions) -
@@ -153,6 +152,7 @@
 *   [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
 *   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Your Own URL Shortener
 *   [norcross/yourls-link-creator](https://github.com/norcross/yourls-link-creator) - A plugin to create a YOURLS link on post save
+*   [gwarnants/FunctionList-PHP-Patch](https://github.com/gwarnants/FunctionList-PHP-Patch) - PHP/CSS languages parsing rules for the Notepad++ FunctionList plugin
 
 ## JavaScript
 
