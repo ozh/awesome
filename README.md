@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
+*   [PHP](#php)
 *   [generic](#generic)
 *   [Rust](#rust)
-*   [PHP](#php)
-*   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Python](#python)
 *   [SCSS](#scss)
@@ -25,36 +25,66 @@
 *   [Inno Setup](#inno-setup)
 *   [C#](#c-2)
 
-## generic
+## JavaScript
 
-*   [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-*   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
-*   [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
-*   [symfony/polyfill-php70](https://github.com/symfony/polyfill-php70) - This component provides features unavailable in releases prior to PHP 7.0.
-*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
-*   [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
-*   [craig552uk/git-poem](https://github.com/craig552uk/git-poem) -
-*   [PatrickLouys/no-framework-tutorial](https://github.com/PatrickLouys/no-framework-tutorial) - A small tutorial to show how to create a PHP application without a framework.
-*   [justinmeza/lolcode-spec](https://github.com/justinmeza/lolcode-spec) - LOLCODE language specification archives and development.
-*   [bullgit/ascii-glitches](https://github.com/bullgit/ascii-glitches) - >G̸̡͉̙̫̻̺̝͉̣̩͕͍̓͑̈̒̆̀ͅlitchr̸ - █̿̿̿̿̿̿̿̿̿█̿̿̿̿̿̿̿̿█̿̿̿̿̿̿̿█̿̿̿̿̿̿█̿̿̿̿̿█̿̿̿̿█̿̿̿█̿̿█̿█͇█͇͇█͇͇͇█͇͇͇͇█͇͇͇͇͇█͇͇͇͇͇͇█͇͇͇͇͇͇͇█͇͇͇͇͇͇͇͇█͇͇͇͇͇͇͇͇͇
-*   [TLmaK0/gravizo](https://github.com/TLmaK0/gravizo) - How to include graphviz graphs in github README
-*   [php-cds/php-cds](https://github.com/php-cds/php-cds) - PHP Community Driven Standards
-*   [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
-*   [Braunson/dreamhost-composer-install](https://github.com/Braunson/dreamhost-composer-install) - Getting Composer Installed on Dreamhost's Shared Servers
-*   [benedfit/sparkicons](https://github.com/benedfit/sparkicons) - From the mind of  Mark Boulton - "I’m defining a Sparkicon as a small, inline icon with additional link meta data to describe either the content and/or the behaviour when the user clicks the link."
-*   [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
-*   [ericandrewlewis/web-development-contract](https://github.com/ericandrewlewis/web-development-contract) - Web Development Contract
-*   [YOURLS/YOURLS.pot](https://github.com/YOURLS/YOURLS.pot) - 🌍 Official YOURLS .pot file to create and maintain your own YOURLS translation
-*   [ozh/YOURLS-fr_FR](https://github.com/ozh/YOURLS-fr_FR) - Traduction française de YOURLS
-*   [contributions/contributions](https://github.com/contributions/contributions) -
-
-## Rust
-
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+*   [SweetmanTech/NFT-Polygon-Minting](https://github.com/SweetmanTech/NFT-Polygon-Minting) - Smart Contract to Mint NFTs on the Polygon Blockchain
+*   [mydea/ember-cli-code-coverage-action](https://github.com/mydea/ember-cli-code-coverage-action) - Comment with the diff for the asset sizes on Pull Request
+*   [docmalkovich/firefox-imdb-search](https://github.com/docmalkovich/firefox-imdb-search) - Firefox web extension - Search highlighted text in IMDb
+*   [r12a/r12a.github.io](https://github.com/r12a/r12a.github.io) - To see the site, go to https://r12a.github.io/
+*   [inbasic/ignotifier](https://github.com/inbasic/ignotifier) - Multiple account Gmail notifier (without storing passwords)
+*   [ejci/favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
+*   [echofox-team/echofon-firefox-unofficial](https://github.com/echofox-team/echofon-firefox-unofficial) - Echofon Unofficial - maintained version of Echofon: full featured, super clean Twitter app for Firefox.
+*   [arasatasaygin/is.js](https://github.com/arasatasaygin/is.js) - Micro check library
+*   [tjmehta/101](https://github.com/tjmehta/101) - A modern JS utility library
+*   [gka/chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations
+*   [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs) - Cross-browser QRCode generator for javascript
+*   [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
+*   [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
+*   [mnmly/minimal-counter](https://github.com/mnmly/minimal-counter) - minimal counter
+*   [aaditmshah/augment](https://github.com/aaditmshah/augment) - The world's smallest and fastest classical JavaScript inheritance pattern.
+*   [dieulot/instantclick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant.
+*   [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the Webdriver API
+*   [afaqurk/linux-dash](https://github.com/afaqurk/linux-dash) - A beautiful web dashboard for Linux
+*   [soulwire/fit.js](https://github.com/soulwire/fit.js) - Fit things into other things
+*   [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
+*   [dangrossman/daterangepicker](https://github.com/dangrossman/daterangepicker) - JavaScript Date Range, Date and Time Picker Component
+*   [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
+*   [ozh/ascii-tables](https://github.com/ozh/ascii-tables) - ⚡ Quickly format table in ASCII. Great for code comments, or Github Markdown!
+*   [maxogden/cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - ᕙ༼ຈل͜ຈ༽ᕗ
+*   [carrot/share-button](https://github.com/carrot/share-button) - :warning: :warning: Currently Unmaintained :warning: :warning: - fast, beautiful, and painless social shares:
+*   [WickyNilliams/headroom.js](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it
+*   [alfajango/jquery-dynatable](https://github.com/alfajango/jquery-dynatable) - A more-fun, semantic, alternative to datatables
+*   [jaridmargolin/formatter.js](https://github.com/jaridmargolin/formatter.js) - Format html inputs to match a specified pattern
+*   [simplefocus/FlowType.JS](https://github.com/simplefocus/FlowType.JS) - Web typography at its finest: font-size and line-height based on element width.
+*   [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
+*   [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
+*   [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
+*   [ed-lea/jquery-collagePlus](https://github.com/ed-lea/jquery-collagePlus) - Create an image gallery like Google+ Albums
+*   [jakiestfu/Snap.js](https://github.com/jakiestfu/Snap.js) - A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)
+*   [hakimel/Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
+*   [cloudfour/hideShowPassword](https://github.com/cloudfour/hideShowPassword) - Because life's too short to waste time re-typing passwords.
+*   [usablica/widearea](https://github.com/usablica/widearea) - Create expandable textarea and write large amount of text easily.
+*   [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
+*   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
+*   [RadLikeWhoa/Countable](https://github.com/RadLikeWhoa/Countable) - Add live paragraph-, word- and character-counting to an HTML element.
+*   [SlexAxton/yepnope.js](https://github.com/SlexAxton/yepnope.js) - A Script Loader For Your Conditional Builds
+*   [Mikhus/domurl](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript
+*   [LeaVerou/prefixfree](https://github.com/LeaVerou/prefixfree) - Break free from CSS prefix hell!
+*   [geuis/helium-css](https://github.com/geuis/helium-css) - Helium - javascript tool to scan your site and show unused CSS
+*   [cameronmcefee/plax](https://github.com/cameronmcefee/plax) - JQuery powered parallaxing
+*   [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+*   [Mottie/tablesorter](https://github.com/Mottie/tablesorter) - Github fork of Christian Bach's tablesorter plugin + awesomeness ~
+*   [paulkinzett/toolbar](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin
+*   [artpolikarpov/fuckyeah](https://github.com/artpolikarpov/fuckyeah) - $('#sexy').slideDown('slow').fuckYeah();
+*   [amsul/pickadate.js](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
+*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+*   [websanova/js-url](https://github.com/websanova/js-url) - url() - A simple, lightweight url parser for JavaScript
+*   [melanke/Watch.JS](https://github.com/melanke/Watch.JS) - watch the changes of any object or attribute
+*   [TradeMe/bootup.js](https://github.com/TradeMe/bootup.js) - Cache and load static files from local storage.
 
 ## PHP
 
-*   [toto-ch/MysqlQueryProfiler](https://github.com/toto-ch/MysqlQueryProfiler) - A tool to profile mysql queries in php env.
+*   [torian257x/ai-php-rubix-wrap](https://github.com/torian257x/ai-php-rubix-wrap) - AI PHP is a wrapper for rubix ml to make AI very approachable
 *   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 *   [delight-im/PHP-Auth](https://github.com/delight-im/PHP-Auth) - Authentication for PHP. Simple, lightweight and secure.
 *   [symfony/polyfill-php72](https://github.com/symfony/polyfill-php72) - This component provides functions added to PHP 7.2 core.
@@ -151,63 +181,33 @@
 *   [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
 *   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Your Own URL Shortener
 *   [norcross/yourls-link-creator](https://github.com/norcross/yourls-link-creator) - A plugin to create a YOURLS link on post save
-*   [gwarnants/FunctionList-PHP-Patch](https://github.com/gwarnants/FunctionList-PHP-Patch) - PHP/CSS languages parsing rules for the Notepad++ FunctionList plugin
 
-## JavaScript
+## generic
 
-*   [mydea/ember-cli-code-coverage-action](https://github.com/mydea/ember-cli-code-coverage-action) - Comment with the diff for the asset sizes on Pull Request
-*   [docmalkovich/firefox-imdb-search](https://github.com/docmalkovich/firefox-imdb-search) - Firefox web extension - Search highlighted text in IMDb
-*   [r12a/r12a.github.io](https://github.com/r12a/r12a.github.io) - To see the site, go to https://r12a.github.io/
-*   [inbasic/ignotifier](https://github.com/inbasic/ignotifier) - Multiple account Gmail notifier (without storing passwords)
-*   [ejci/favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
-*   [echofox-team/echofon-firefox-unofficial](https://github.com/echofox-team/echofon-firefox-unofficial) - Echofon Unofficial - maintained version of Echofon: full featured, super clean Twitter app for Firefox.
-*   [arasatasaygin/is.js](https://github.com/arasatasaygin/is.js) - Micro check library
-*   [tjmehta/101](https://github.com/tjmehta/101) - A modern JS utility library
-*   [gka/chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations
-*   [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs) - Cross-browser QRCode generator for javascript
-*   [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
-*   [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
-*   [mnmly/minimal-counter](https://github.com/mnmly/minimal-counter) - minimal counter
-*   [aaditmshah/augment](https://github.com/aaditmshah/augment) - The world's smallest and fastest classical JavaScript inheritance pattern.
-*   [dieulot/instantclick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant.
-*   [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the Webdriver API
-*   [afaqurk/linux-dash](https://github.com/afaqurk/linux-dash) - A beautiful web dashboard for Linux
-*   [soulwire/fit.js](https://github.com/soulwire/fit.js) - Fit things into other things
-*   [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
-*   [dangrossman/daterangepicker](https://github.com/dangrossman/daterangepicker) - JavaScript Date Range, Date and Time Picker Component
-*   [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
-*   [ozh/ascii-tables](https://github.com/ozh/ascii-tables) - ⚡ Quickly format table in ASCII. Great for code comments, or Github Markdown!
-*   [maxogden/cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - ᕙ༼ຈل͜ຈ༽ᕗ
-*   [carrot/share-button](https://github.com/carrot/share-button) - :warning: :warning: Currently Unmaintained :warning: :warning: - fast, beautiful, and painless social shares:
-*   [WickyNilliams/headroom.js](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it
-*   [alfajango/jquery-dynatable](https://github.com/alfajango/jquery-dynatable) - A more-fun, semantic, alternative to datatables
-*   [jaridmargolin/formatter.js](https://github.com/jaridmargolin/formatter.js) - Format html inputs to match a specified pattern
-*   [simplefocus/FlowType.JS](https://github.com/simplefocus/FlowType.JS) - Web typography at its finest: font-size and line-height based on element width.
-*   [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
-*   [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
-*   [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
-*   [ed-lea/jquery-collagePlus](https://github.com/ed-lea/jquery-collagePlus) - Create an image gallery like Google+ Albums
-*   [jakiestfu/Snap.js](https://github.com/jakiestfu/Snap.js) - A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)
-*   [hakimel/Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
-*   [cloudfour/hideShowPassword](https://github.com/cloudfour/hideShowPassword) - Because life's too short to waste time re-typing passwords.
-*   [usablica/widearea](https://github.com/usablica/widearea) - Create expandable textarea and write large amount of text easily.
-*   [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
-*   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
-*   [RadLikeWhoa/Countable](https://github.com/RadLikeWhoa/Countable) - Add live paragraph-, word- and character-counting to an HTML element.
-*   [SlexAxton/yepnope.js](https://github.com/SlexAxton/yepnope.js) - A Script Loader For Your Conditional Builds
-*   [Mikhus/domurl](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript
-*   [LeaVerou/prefixfree](https://github.com/LeaVerou/prefixfree) - Break free from CSS prefix hell!
-*   [geuis/helium-css](https://github.com/geuis/helium-css) - Helium - javascript tool to scan your site and show unused CSS
-*   [cameronmcefee/plax](https://github.com/cameronmcefee/plax) - JQuery powered parallaxing
-*   [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
-*   [Mottie/tablesorter](https://github.com/Mottie/tablesorter) - Github fork of Christian Bach's tablesorter plugin + awesomeness ~
-*   [paulkinzett/toolbar](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin
-*   [artpolikarpov/fuckyeah](https://github.com/artpolikarpov/fuckyeah) - $('#sexy').slideDown('slow').fuckYeah();
-*   [amsul/pickadate.js](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
-*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-*   [websanova/js-url](https://github.com/websanova/js-url) - url() - A simple, lightweight url parser for JavaScript
-*   [melanke/Watch.JS](https://github.com/melanke/Watch.JS) - watch the changes of any object or attribute
-*   [TradeMe/bootup.js](https://github.com/TradeMe/bootup.js) - Cache and load static files from local storage.
+*   [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+*   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
+*   [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
+*   [symfony/polyfill-php70](https://github.com/symfony/polyfill-php70) - This component provides features unavailable in releases prior to PHP 7.0.
+*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
+*   [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
+*   [craig552uk/git-poem](https://github.com/craig552uk/git-poem) -
+*   [PatrickLouys/no-framework-tutorial](https://github.com/PatrickLouys/no-framework-tutorial) - A small tutorial to show how to create a PHP application without a framework.
+*   [justinmeza/lolcode-spec](https://github.com/justinmeza/lolcode-spec) - LOLCODE language specification archives and development.
+*   [bullgit/ascii-glitches](https://github.com/bullgit/ascii-glitches) - >G̸̡͉̙̫̻̺̝͉̣̩͕͍̓͑̈̒̆̀ͅlitchr̸ - █̿̿̿̿̿̿̿̿̿█̿̿̿̿̿̿̿̿█̿̿̿̿̿̿̿█̿̿̿̿̿̿█̿̿̿̿̿█̿̿̿̿█̿̿̿█̿̿█̿█͇█͇͇█͇͇͇█͇͇͇͇█͇͇͇͇͇█͇͇͇͇͇͇█͇͇͇͇͇͇͇█͇͇͇͇͇͇͇͇█͇͇͇͇͇͇͇͇͇
+*   [TLmaK0/gravizo](https://github.com/TLmaK0/gravizo) - How to include graphviz graphs in github README
+*   [php-cds/php-cds](https://github.com/php-cds/php-cds) - PHP Community Driven Standards
+*   [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
+*   [Braunson/dreamhost-composer-install](https://github.com/Braunson/dreamhost-composer-install) - Getting Composer Installed on Dreamhost's Shared Servers
+*   [benedfit/sparkicons](https://github.com/benedfit/sparkicons) - From the mind of  Mark Boulton - "I’m defining a Sparkicon as a small, inline icon with additional link meta data to describe either the content and/or the behaviour when the user clicks the link."
+*   [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
+*   [ericandrewlewis/web-development-contract](https://github.com/ericandrewlewis/web-development-contract) - Web Development Contract
+*   [YOURLS/YOURLS.pot](https://github.com/YOURLS/YOURLS.pot) - 🌍 Official YOURLS .pot file to create and maintain your own YOURLS translation
+*   [ozh/YOURLS-fr_FR](https://github.com/ozh/YOURLS-fr_FR) - Traduction française de YOURLS
+*   [contributions/contributions](https://github.com/contributions/contributions) -
+
+## Rust
+
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 
 ## Shell
 
