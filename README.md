@@ -23,6 +23,7 @@
 *   [TypeScript](#typescript)
 *   [Arduino](#arduino)
 *   [Inno Setup](#inno-setup)
+*   [Less](#less)
 *   [C#](#c-2)
 
 ## JavaScript
@@ -255,7 +256,6 @@
 *   [jackrugile/placeholdem](https://github.com/jackrugile/placeholdem) - Placeholder Caret Animation
 *   [SuperFriendly/project-hub](https://github.com/SuperFriendly/project-hub) - Project Hub
 *   [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)
-*   [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 *   [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 *   [HubSpot/odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease. #hubspot-open-source
 *   [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css) - This repo is archived. Thanks!
@@ -320,6 +320,10 @@
 ## Inno Setup
 
 *   [WPN-XM/WPN-XM](https://github.com/WPN-XM/WPN-XM) - WPN-XM is a web server stack for PHP development on Windows.
+
+## Less
+
+*   [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 
 ## C#
 
