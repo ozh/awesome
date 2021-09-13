@@ -151,7 +151,7 @@
 *   [docopt/docopt.php](https://github.com/docopt/docopt.php) - Command line argument parser
 *   [Respect/Validation](https://github.com/Respect/Validation) - The most awesome validation engine ever created for PHP
 *   [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
-*   [bueltge/wordpress-admin-style](https://github.com/bueltge/wordpress-admin-style) - Shows the WordPress admin styles on one page to help you to develop WordPress compliant
+*   [bueltge/wordpress-admin-style](https://github.com/bueltge/wordpress-admin-style) - This plugin reference elements from wp-admin in an overview with the necessary markup and CSS classes to help you to develop WordPress compliant.
 *   [nette/caching](https://github.com/nette/caching) - ⏱ Caching library with easy-to-use API and many cache backends.
 *   [YOURLS/YOURLS-CLI](https://github.com/YOURLS/YOURLS-CLI) - YOURLS Command Line Interface. Work in progress.
 *   [donatj/BeautifulPHPCLI-talk](https://github.com/donatj/BeautifulPHPCLI-talk) - Beautiful PHP CLI Talk Code Samples
