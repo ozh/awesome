@@ -113,7 +113,7 @@
 *   [SergeyTsalkov/meekrodb](https://github.com/SergeyTsalkov/meekrodb) - MeekroDB -- The Simple PHP MySQL Library
 *   [ausi/slug-generator](https://github.com/ausi/slug-generator) - Slug Generator Library for PHP, based on Unicode’s CLDR data
 *   [sabre-io/uri](https://github.com/sabre-io/uri) - :earth_asia:  Functions for making sense out of URIs in PHP
-*   [voku/portable-utf8](https://github.com/voku/portable-utf8) - 🉑 Portable UTF-8 library - performance optimized (unicode) string functions for php.
+*   [voku/portable-utf8](https://github.com/voku/portable-utf8) - 🉑 Portable UTF-8 library - performance optimized (unicode) string functions for PHP.
 *   [gilbitron/EasyCSRF](https://github.com/gilbitron/EasyCSRF) - A simple, standalone CSRF protection library
 *   [hevertonfreitas/base65536](https://github.com/hevertonfreitas/base65536) - Base65536 implementation in PHP
 *   [backup-manager/backup-manager](https://github.com/backup-manager/backup-manager) - Database backup manager for dumping to and restoring databases from S3, Dropbox, FTP, SFTP, and Rackspace Cloud
