@@ -33,6 +33,7 @@
 *   [docmalkovich/firefox-imdb-search](https://github.com/docmalkovich/firefox-imdb-search) - Firefox web extension - Search highlighted text in IMDb
 *   [r12a/r12a.github.io](https://github.com/r12a/r12a.github.io) - To see the site, go to https://r12a.github.io/
 *   [inbasic/ignotifier](https://github.com/inbasic/ignotifier) - Multiple account Gmail notifier (without storing passwords)
+*   [LeaVerou/stretchy](https://github.com/LeaVerou/stretchy) - Form element autosizing, the way it should be
 *   [ejci/favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
 *   [echofox-team/echofon-firefox-unofficial](https://github.com/echofox-team/echofon-firefox-unofficial) - Echofon Unofficial - maintained version of Echofon: full featured, super clean Twitter app for Firefox.
 *   [arasatasaygin/is.js](https://github.com/arasatasaygin/is.js) - Micro check library
@@ -274,7 +275,6 @@
 ## HTML
 
 *   [LeoColomb/perfectmotherfuckingwebsite](https://github.com/LeoColomb/perfectmotherfuckingwebsite) - 🖕 And it's really more fucking perfect than the last guy's.
-*   [LeaVerou/stretchy](https://github.com/LeaVerou/stretchy) - Form element autosizing, the way it should be.
 *   [twitter/twitter-text](https://github.com/twitter/twitter-text) - Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 *   [chriszarate/supergenpass](https://github.com/chriszarate/supergenpass) - A free bookmarklet password generator.
 *   [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
