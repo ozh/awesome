@@ -28,6 +28,7 @@
 
 ## JavaScript
 
+*   [adhesivecheese/kinklist](https://github.com/adhesivecheese/kinklist) - A Kinklist Generator
 *   [SweetmanTech/NFT-Polygon-Minting](https://github.com/SweetmanTech/NFT-Polygon-Minting) - Smart Contract to Mint NFTs on the Polygon Blockchain
 *   [mydea/ember-cli-code-coverage-action](https://github.com/mydea/ember-cli-code-coverage-action) - Comment with the diff for the asset sizes on Pull Request
 *   [docmalkovich/firefox-imdb-search](https://github.com/docmalkovich/firefox-imdb-search) - Firefox web extension - Search highlighted text in IMDb
@@ -285,7 +286,6 @@
 *   [BlackrockDigital/startbootstrap](https://github.com/BlackrockDigital/startbootstrap) - A library of free and open source Bootstrap themes and templates
 *   [tysonmatanich/viewportSize](https://github.com/tysonmatanich/viewportSize) - Get the size of the CSS viewport using JavaScript.
 *   [johnpolacek/stacktable.js](https://github.com/johnpolacek/stacktable.js) - jQuery plugin for stacking tables on small screens
-*   [bradfrost/this-is-responsive](https://github.com/bradfrost/this-is-responsive) - This Is Responsive
 
 ## Makefile
 
