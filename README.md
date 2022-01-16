@@ -23,7 +23,6 @@
 *   [TypeScript](#typescript)
 *   [Arduino](#arduino)
 *   [Inno Setup](#inno-setup)
-*   [Less](#less)
 *   [C#](#c-2)
 
 ## PHP
@@ -105,6 +104,7 @@
 *   [nategood/commando](https://github.com/nategood/commando) - An Elegant CLI Library for PHP
 *   [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 *   [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
+*   [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 *   [vlucas/valitron](https://github.com/vlucas/valitron) - Valitron is a simple, elegant, stand-alone validation library with NO dependencies
 *   [InterNations/http-mock](https://github.com/InterNations/http-mock) - Mock HTTP requests on the server side in your PHP unit tests
 *   [jwage/purl](https://github.com/jwage/purl) - Purl is a simple Object Oriented URL manipulation library for PHP 7.2+
@@ -320,10 +320,6 @@
 ## Inno Setup
 
 *   [WPN-XM/WPN-XM](https://github.com/WPN-XM/WPN-XM) - WPN-XM is a web server stack for PHP development on Windows.
-
-## Less
-
-*   [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 
 ## C#
 
