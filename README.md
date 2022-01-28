@@ -264,7 +264,7 @@
 *   [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css) - This repo is archived. Thanks!
 *   [rstacruz/flatdoc](https://github.com/rstacruz/flatdoc) - Build sites fast from Markdown
 *   [noizwaves/bootstrap-social-buttons](https://github.com/noizwaves/bootstrap-social-buttons) - Social media button styles for Twitter Bootstrap
-*   [andjosh/naked-wordpress](https://github.com/andjosh/naked-wordpress) - Wordpress for designers who don't know Wordpress
+*   [andjosh/naked-wordpress](https://github.com/andjosh/naked-wordpress) - Wordpress theme for designers who don't know Wordpress
 *   [webpop/jquery.pin](https://github.com/webpop/jquery.pin) - Pin any element within a container
 *   [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 *   [guillaumepotier/Garlic.js](https://github.com/guillaumepotier/Garlic.js) - Automatically persist your forms' text and select field values locally, until the form is submitted.
