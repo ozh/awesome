@@ -275,7 +275,7 @@
 
 ## HTML
 
-*   [LeoColomb/perfectmotherfuckingwebsite](https://github.com/LeoColomb/perfectmotherfuckingwebsite) - 🖕 And it's really more fucking perfect than the last guy's.
+*   [LeoColomb/perfectmotherfuckingwebsite](https://github.com/LeoColomb/perfectmotherfuckingwebsite) - 🖕 And it’s really more fucking perfect than the last guy’s.
 *   [twitter/twitter-text](https://github.com/twitter/twitter-text) - Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 *   [chriszarate/supergenpass](https://github.com/chriszarate/supergenpass) - A free bookmarklet password generator.
 *   [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
