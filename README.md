@@ -11,7 +11,6 @@
 *   [Shell](#shell)
 *   [Python](#python)
 *   [SCSS](#scss)
-*   [Ruby](#ruby)
 *   [Visual Basic](#visual-basic)
 *   [CSS](#css)
 *   [Java](#java)
@@ -24,6 +23,7 @@
 *   [Arduino](#arduino)
 *   [Inno Setup](#inno-setup)
 *   [C#](#c-2)
+*   [Ruby](#ruby)
 
 ## PHP
 
@@ -193,6 +193,7 @@
 *   [symfony/polyfill-php70](https://github.com/symfony/polyfill-php70) - This component provides features unavailable in releases prior to PHP 7.0.
 *   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 *   [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
+*   [YOURLS/awesome-yourls](https://github.com/YOURLS/awesome-yourls) - 🎉 A curated list of awesome things related to YOURLS
 *   [craig552uk/git-poem](https://github.com/craig552uk/git-poem) -
 *   [PatrickLouys/no-framework-tutorial](https://github.com/PatrickLouys/no-framework-tutorial) - A small tutorial to show how to create a PHP application without a framework.
 *   [justinmeza/lolcode-spec](https://github.com/justinmeza/lolcode-spec) - LOLCODE language specification archives and development.
@@ -239,14 +240,6 @@
 
 *   [Flynntes/Sleeky](https://github.com/Flynntes/Sleeky) - 🎨 A sleek and simple frontend & backend theme for YOURLS
 *   [10up/Engineering-Best-Practices](https://github.com/10up/Engineering-Best-Practices) - 10up Engineering Best Practices
-
-## Ruby
-
-*   [YOURLS/awesome-yourls](https://github.com/YOURLS/awesome-yourls) - 🎉 A curated list of awesome things related to YOURLS
-*   [dumbstore/dumbstore](https://github.com/dumbstore/dumbstore) - Dumb Apps for Dumb Phones
-*   [usablica/label.css](https://github.com/usablica/label.css) - Just a simply easy way to label each element you want!
-*   [zmoazeni/csscss](https://github.com/zmoazeni/csscss) - A CSS redundancy analyzer that analyzes redundancy.
-*   [apigy/selfstarter](https://github.com/apigy/selfstarter) - Roll your own crowdfunding
 
 ## Visual Basic
 
@@ -324,3 +317,10 @@
 ## C#
 
 *   [phendryx/superputty](https://github.com/phendryx/superputty) - PLEASE DO NOT USE THIS FORK! IT IS QUITE OUTDATED AND DOES NOT INCLUDE UPDATES MADE BY JIM RADFORD, THE ORIGINAL DEVELOPER. USE:
+
+## Ruby
+
+*   [dumbstore/dumbstore](https://github.com/dumbstore/dumbstore) - Dumb Apps for Dumb Phones
+*   [usablica/label.css](https://github.com/usablica/label.css) - Just a simply easy way to label each element you want!
+*   [zmoazeni/csscss](https://github.com/zmoazeni/csscss) - A CSS redundancy analyzer that analyzes redundancy.
+*   [apigy/selfstarter](https://github.com/apigy/selfstarter) - Roll your own crowdfunding
