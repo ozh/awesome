@@ -21,7 +21,6 @@
 *   [CoffeeScript](#coffeescript)
 *   [TypeScript](#typescript)
 *   [Arduino](#arduino)
-*   [Inno Setup](#inno-setup)
 *   [C#](#c-2)
 *   [Ruby](#ruby)
 
@@ -123,7 +122,8 @@
 *   [maxmind/geoip-api-php](https://github.com/maxmind/geoip-api-php) - GeoIP Legacy PHP API
 *   [ozh/google-issues-to-github](https://github.com/ozh/google-issues-to-github) - PHP CLI script to migrate issues from a Google Code project to Github
 *   [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
-*   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Your Own URL Shortener
+*   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Y̲our O̲wn U̲R̲L̲ S̲hortener
+*   [norcross/yourls-link-creator](https://github.com/norcross/yourls-link-creator) - A plugin to create a YOURLS link on post save
 
 ## JavaScript
 
@@ -309,10 +309,6 @@
 ## Arduino
 
 *   [ozh/rainbow](https://github.com/ozh/rainbow) - Because everybody loves rainbows.
-
-## Inno Setup
-
-*   [WPN-XM/WPN-XM](https://github.com/WPN-XM/WPN-XM) - WPN-XM is a web server stack for PHP development on Windows.
 
 ## C#
 
