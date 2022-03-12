@@ -26,6 +26,7 @@
 
 ## PHP
 
+*   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Y̲our O̲wn U̲R̲L̲ S̲hortener
 *   [tronovav/geoip2-update](https://github.com/tronovav/geoip2-update) - Update Maxmind.com GeoIP2/GeoLite2 databases from your php script, application or via Composer.
 *   [torian257x/ai-php-rubix-wrap](https://github.com/torian257x/ai-php-rubix-wrap) - AI PHP is a wrapper for rubix ml to make AI very approachable
 *   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
@@ -122,7 +123,6 @@
 *   [maxmind/geoip-api-php](https://github.com/maxmind/geoip-api-php) - GeoIP Legacy PHP API
 *   [ozh/google-issues-to-github](https://github.com/ozh/google-issues-to-github) - PHP CLI script to migrate issues from a Google Code project to Github
 *   [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
-*   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Y̲our O̲wn U̲R̲L̲ S̲hortener
 *   [norcross/yourls-link-creator](https://github.com/norcross/yourls-link-creator) - A plugin to create a YOURLS link on post save
 
 ## JavaScript
