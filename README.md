@@ -4,9 +4,10 @@
 
 ## Table of Contents
 
+*   [generic](#generic)
+*   [TypeScript](#typescript)
 *   [PHP](#php)
 *   [JavaScript](#javascript)
-*   [generic](#generic)
 *   [Rust](#rust)
 *   [Shell](#shell)
 *   [Python](#python)
@@ -19,10 +20,41 @@
 *   [C](#c)
 *   [C++](#c-1)
 *   [CoffeeScript](#coffeescript)
-*   [TypeScript](#typescript)
 *   [Arduino](#arduino)
 *   [C#](#c-2)
 *   [Ruby](#ruby)
+
+## generic
+
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+*   [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+*   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
+*   [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
+*   [symfony/polyfill-php70](https://github.com/symfony/polyfill-php70) - This component provides features unavailable in releases prior to PHP 7.0.
+*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
+*   [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
+*   [YOURLS/awesome-yourls](https://github.com/YOURLS/awesome-yourls) - 🎉 A curated list of awesome things related to YOURLS
+*   [craig552uk/git-poem](https://github.com/craig552uk/git-poem) -
+*   [PatrickLouys/no-framework-tutorial](https://github.com/PatrickLouys/no-framework-tutorial) - A small tutorial to show how to create a PHP application without a framework.
+*   [justinmeza/lolcode-spec](https://github.com/justinmeza/lolcode-spec) - LOLCODE language specification archives and development.
+*   [bullgit/ascii-glitches](https://github.com/bullgit/ascii-glitches) - >G̸̡͉̙̫̻̺̝͉̣̩͕͍̓͑̈̒̆̀ͅlitchr̸ - █̿̿̿̿̿̿̿̿̿█̿̿̿̿̿̿̿̿█̿̿̿̿̿̿̿█̿̿̿̿̿̿█̿̿̿̿̿█̿̿̿̿█̿̿̿█̿̿█̿█͇█͇͇█͇͇͇█͇͇͇͇█͇͇͇͇͇█͇͇͇͇͇͇█͇͇͇͇͇͇͇█͇͇͇͇͇͇͇͇█͇͇͇͇͇͇͇͇͇
+*   [TLmaK0/gravizo](https://github.com/TLmaK0/gravizo) - How to include graphviz graphs in github README
+*   [php-cds/php-cds](https://github.com/php-cds/php-cds) - PHP Community Driven Standards
+*   [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
+*   [Braunson/dreamhost-composer-install](https://github.com/Braunson/dreamhost-composer-install) - Getting Composer Installed on Dreamhost's Shared Servers
+*   [benedfit/sparkicons](https://github.com/benedfit/sparkicons) - From the mind of  Mark Boulton - "I’m defining a Sparkicon as a small, inline icon with additional link meta data to describe either the content and/or the behaviour when the user clicks the link."
+*   [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
+*   [ericandrewlewis/web-development-contract](https://github.com/ericandrewlewis/web-development-contract) - Web Development Contract
+*   [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
+*   [YOURLS/YOURLS.pot](https://github.com/YOURLS/YOURLS.pot) - 🌍 Official YOURLS .pot file to create and maintain your own YOURLS translation
+*   [ozh/YOURLS-fr_FR](https://github.com/ozh/YOURLS-fr_FR) - Traduction française de YOURLS
+*   [contributions/contributions](https://github.com/contributions/contributions) -
+
+## TypeScript
+
+*   [YOURLS/docs](https://github.com/YOURLS/docs) - 📄 Documentation for YOURLS
+*   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
+*   [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
 
 ## PHP
 
@@ -122,8 +154,6 @@
 *   [guzzle/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
 *   [maxmind/geoip-api-php](https://github.com/maxmind/geoip-api-php) - GeoIP Legacy PHP API
 *   [ozh/google-issues-to-github](https://github.com/ozh/google-issues-to-github) - PHP CLI script to migrate issues from a Google Code project to Github
-*   [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
-*   [norcross/yourls-link-creator](https://github.com/norcross/yourls-link-creator) - A plugin to create a YOURLS link on post save
 
 ## JavaScript
 
@@ -184,31 +214,6 @@
 *   [websanova/js-url](https://github.com/websanova/js-url) - url() - A simple, lightweight url parser for JavaScript
 *   [melanke/Watch.JS](https://github.com/melanke/Watch.JS) - watch the changes of any object or attribute
 *   [TradeMe/bootup.js](https://github.com/TradeMe/bootup.js) - Cache and load static files from local storage.
-
-## generic
-
-*   [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-*   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
-*   [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
-*   [symfony/polyfill-php70](https://github.com/symfony/polyfill-php70) - This component provides features unavailable in releases prior to PHP 7.0.
-*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
-*   [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
-*   [YOURLS/awesome-yourls](https://github.com/YOURLS/awesome-yourls) - 🎉 A curated list of awesome things related to YOURLS
-*   [craig552uk/git-poem](https://github.com/craig552uk/git-poem) -
-*   [PatrickLouys/no-framework-tutorial](https://github.com/PatrickLouys/no-framework-tutorial) - A small tutorial to show how to create a PHP application without a framework.
-*   [justinmeza/lolcode-spec](https://github.com/justinmeza/lolcode-spec) - LOLCODE language specification archives and development.
-*   [bullgit/ascii-glitches](https://github.com/bullgit/ascii-glitches) - >G̸̡͉̙̫̻̺̝͉̣̩͕͍̓͑̈̒̆̀ͅlitchr̸ - █̿̿̿̿̿̿̿̿̿█̿̿̿̿̿̿̿̿█̿̿̿̿̿̿̿█̿̿̿̿̿̿█̿̿̿̿̿█̿̿̿̿█̿̿̿█̿̿█̿█͇█͇͇█͇͇͇█͇͇͇͇█͇͇͇͇͇█͇͇͇͇͇͇█͇͇͇͇͇͇͇█͇͇͇͇͇͇͇͇█͇͇͇͇͇͇͇͇͇
-*   [TLmaK0/gravizo](https://github.com/TLmaK0/gravizo) - How to include graphviz graphs in github README
-*   [php-cds/php-cds](https://github.com/php-cds/php-cds) - PHP Community Driven Standards
-*   [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
-*   [Braunson/dreamhost-composer-install](https://github.com/Braunson/dreamhost-composer-install) - Getting Composer Installed on Dreamhost's Shared Servers
-*   [benedfit/sparkicons](https://github.com/benedfit/sparkicons) - From the mind of  Mark Boulton - "I’m defining a Sparkicon as a small, inline icon with additional link meta data to describe either the content and/or the behaviour when the user clicks the link."
-*   [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
-*   [ericandrewlewis/web-development-contract](https://github.com/ericandrewlewis/web-development-contract) - Web Development Contract
-*   [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
-*   [YOURLS/YOURLS.pot](https://github.com/YOURLS/YOURLS.pot) - 🌍 Official YOURLS .pot file to create and maintain your own YOURLS translation
-*   [ozh/YOURLS-fr_FR](https://github.com/ozh/YOURLS-fr_FR) - Traduction française de YOURLS
-*   [contributions/contributions](https://github.com/contributions/contributions) -
 
 ## Rust
 
@@ -300,11 +305,6 @@
 *   [dmauro/Keypress](https://github.com/dmauro/Keypress) - A keyboard input capturing utility in which any key can be a modifier key.
 *   [morrisjs/morris.js](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs
 *   [easelinc/tourist](https://github.com/easelinc/tourist) - Simple, flexible tours for your app
-
-## TypeScript
-
-*   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
-*   [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
 
 ## Arduino
 
