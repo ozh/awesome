@@ -27,7 +27,7 @@
 ## PHP
 
 *   [Flameborn/yourls-sqlite](https://github.com/Flameborn/yourls-sqlite) - SQLite driver for YOURLS
-*   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Y̲our O̲wn U̲R̲L̲ S̲hortener
+*   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Y̲our O̲wn U̲R̲L̲ S̲hortener - the 𝑑𝑒 𝑓𝑎𝑐𝑡𝑜 standard self hosted URL shortener in PHP. Star us on Github!
 *   [tronovav/geoip2-update](https://github.com/tronovav/geoip2-update) - Update Maxmind.com GeoIP2/GeoLite2 databases from your php script, application or via Composer.
 *   [torian257x/ai-php-rubix-wrap](https://github.com/torian257x/ai-php-rubix-wrap) - AI PHP is a wrapper for rubix ml to make AI very approachable
 *   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
@@ -99,6 +99,7 @@
 *   [nette/caching](https://github.com/nette/caching) - ⏱ Caching library with easy-to-use API and many cache backends.
 *   [YOURLS/YOURLS-CLI](https://github.com/YOURLS/YOURLS-CLI) - YOURLS Command Line Interface. Work in progress.
 *   [donatj/BeautifulPHPCLI-talk](https://github.com/donatj/BeautifulPHPCLI-talk) - Beautiful PHP CLI Talk Code Samples
+*   [datawrapper/datawrapper](https://github.com/datawrapper/datawrapper) - This is a read-only mirror of a part of our codebase.
 *   [markoheijnen/wp-db-driver](https://github.com/markoheijnen/wp-db-driver) -
 *   [danielstjules/Stringy](https://github.com/danielstjules/Stringy) - A PHP string manipulation library with multibyte support
 *   [thephpleague/oauth2-client](https://github.com/thephpleague/oauth2-client) - Easy integration with OAuth 2.0 service providers.
@@ -173,7 +174,6 @@
 *   [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs) - Cross-browser QRCode generator for javascript
 *   [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
 *   [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
-*   [datawrapper/datawrapper](https://github.com/datawrapper/datawrapper) - This is a read-only mirror of a part of our codebase.
 *   [mnmly/minimal-counter](https://github.com/mnmly/minimal-counter) - minimal counter
 *   [aaditmshah/augment](https://github.com/aaditmshah/augment) - The world's smallest and fastest classical JavaScript inheritance pattern.
 *   [dieulot/instantclick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant.
