@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Ruby](#ruby)
 *   [PHP](#php)
 *   [generic](#generic)
 *   [TypeScript](#typescript)
@@ -22,7 +23,13 @@
 *   [CoffeeScript](#coffeescript)
 *   [Arduino](#arduino)
 *   [C#](#c-2)
-*   [Ruby](#ruby)
+
+## Ruby
+
+*   [ozh/top\_100\_PHP_projects](https://github.com/ozh/top\_100\_PHP_projects) - The 𝗧𝗼𝗽 𝟭𝟬𝟬 𝗣𝗛𝗣 Projects on Github
+*   [dumbstore/dumbstore](https://github.com/dumbstore/dumbstore) - Dumb Apps for Dumb Phones
+*   [usablica/label.css](https://github.com/usablica/label.css) - Just a simply easy way to label each element you want!
+*   [zmoazeni/csscss](https://github.com/zmoazeni/csscss) - A CSS redundancy analyzer that analyzes redundancy.
 
 ## PHP
 
@@ -313,10 +320,3 @@
 ## C#
 
 *   [phendryx/superputty](https://github.com/phendryx/superputty) - PLEASE DO NOT USE THIS FORK! IT IS QUITE OUTDATED AND DOES NOT INCLUDE UPDATES MADE BY JIM RADFORD, THE ORIGINAL DEVELOPER. USE:
-
-## Ruby
-
-*   [dumbstore/dumbstore](https://github.com/dumbstore/dumbstore) - Dumb Apps for Dumb Phones
-*   [usablica/label.css](https://github.com/usablica/label.css) - Just a simply easy way to label each element you want!
-*   [zmoazeni/csscss](https://github.com/zmoazeni/csscss) - A CSS redundancy analyzer that analyzes redundancy.
-*   [apigy/selfstarter](https://github.com/apigy/selfstarter) - Roll your own crowdfunding
