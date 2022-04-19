@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Ruby](#ruby)
 *   [PHP](#php)
 *   [generic](#generic)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
-*   [Shell](#shell)
 *   [Python](#python)
 *   [SCSS](#scss)
 *   [Visual Basic](#visual-basic)
@@ -23,6 +23,16 @@
 *   [CoffeeScript](#coffeescript)
 *   [Arduino](#arduino)
 *   [C#](#c-2)
+
+## Shell
+
+*   [YOURLS/YOURLS-test-suite-for-plugins](https://github.com/YOURLS/YOURLS-test-suite-for-plugins) - 🐞 YOURLS test suite for plugins. Write unit tests for your YOURLS plugins !
+*   [mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations](https://github.com/mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations) - How to get Travis CI to test Apache code including vhosts and custom apache code like .htaccess rules or other scripts you have written and need to test using Travis CI's build checker.
+*   [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+*   [varunsridharan/action-wp-pot-generator](https://github.com/varunsridharan/action-wp-pot-generator) - Generates POT Files for your wordpress Plugin / Theme based on the content inside Github Repo
+*   [scopatz/nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
+*   [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
+*   [nojhan/liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 
 ## Ruby
 
@@ -220,20 +230,10 @@
 *   [amsul/pickadate.js](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
 *   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 *   [websanova/js-url](https://github.com/websanova/js-url) - url() - A simple, lightweight url parser for JavaScript
-*   [melanke/Watch.JS](https://github.com/melanke/Watch.JS) - watch the changes of any object or attribute
 
 ## Rust
 
 *   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-
-## Shell
-
-*   [mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations](https://github.com/mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations) - How to get Travis CI to test Apache code including vhosts and custom apache code like .htaccess rules or other scripts you have written and need to test using Travis CI's build checker.
-*   [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
-*   [varunsridharan/action-wp-pot-generator](https://github.com/varunsridharan/action-wp-pot-generator) - Generates POT Files for your wordpress Plugin / Theme based on the content inside Github Repo
-*   [scopatz/nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
-*   [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
-*   [nojhan/liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 
 ## Python
 
