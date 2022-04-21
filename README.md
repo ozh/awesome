@@ -26,7 +26,7 @@
 
 ## Shell
 
-*   [YOURLS/YOURLS-test-suite-for-plugins](https://github.com/YOURLS/YOURLS-test-suite-for-plugins) - 🐞 YOURLS test suite for plugins. Write unit tests for your YOURLS plugins !
+*   [YOURLS/YOURLS-test-suite-for-plugins](https://github.com/YOURLS/YOURLS-test-suite-for-plugins) - 🐞 YOURLS test suite for plugins. Write unit tests for your YOURLS plugins!
 *   [mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations](https://github.com/mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations) - How to get Travis CI to test Apache code including vhosts and custom apache code like .htaccess rules or other scripts you have written and need to test using Travis CI's build checker.
 *   [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 *   [varunsridharan/action-wp-pot-generator](https://github.com/varunsridharan/action-wp-pot-generator) - Generates POT Files for your wordpress Plugin / Theme based on the content inside Github Repo
