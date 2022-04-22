@@ -36,7 +36,7 @@
 
 ## Ruby
 
-*   [ozh/top\_100\_PHP_projects](https://github.com/ozh/top\_100\_PHP_projects) - The 𝗧𝗼𝗽 𝟭𝟬𝟬 𝗣𝗛𝗣 Projects on Github
+*   [ozh/top\_100\_PHP_projects](https://github.com/ozh/top\_100\_PHP_projects) - 💯 The 𝗧𝗼𝗽 𝟭𝟬𝟬 𝗣𝗛𝗣 Projects on Github. (𝐿𝑖𝑠𝑡 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒𝑑 𝑏𝑦 𝑎 𝑅𝑢𝑏𝑦 𝑠𝑐𝑟𝑖𝑝𝑡 𝑡ℎ𝑎𝑡 𝑤𝑎𝑠 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒𝑑 𝑏𝑦 𝐴𝐼 !)
 *   [dumbstore/dumbstore](https://github.com/dumbstore/dumbstore) - Dumb Apps for Dumb Phones
 *   [usablica/label.css](https://github.com/usablica/label.css) - Just a simply easy way to label each element you want!
 *   [zmoazeni/csscss](https://github.com/zmoazeni/csscss) - A CSS redundancy analyzer that analyzes redundancy.
@@ -56,7 +56,7 @@
 *   [enygma/composerclean](https://github.com/enygma/composerclean) - An additional command for Composer that removes configured files/directory
 *   [wikimedia/at-ease](https://github.com/wikimedia/at-ease) - Safe alternative to PHP's "@" error control operator. Mirror from https://gerrit.wikimedia.org/g/at-ease. See https://www.mediawiki.org/wiki/Developer_access for contributing.
 *   [symfony/thanks](https://github.com/symfony/thanks) - Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)!
-*   [YOURLS/composer-installer](https://github.com/YOURLS/composer-installer) - 📦 Install YOURLS plugins with Composer
+*   [YOURLS/composer-installer](https://github.com/YOURLS/composer-installer) - 📦 Install YOURLS plugins with Composer - Work in progress 🚧
 *   [LeoColomb/pomo](https://github.com/LeoColomb/pomo) - Gettext library to translate with I18n
 *   [symfony/polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) - This component provides a partial, native PHP implementation for the Mbstring extension.
 *   [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
