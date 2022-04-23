@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
+*   [Python](#python)
 *   [Shell](#shell)
 *   [Ruby](#ruby)
 *   [PHP](#php)
@@ -11,7 +13,6 @@
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
-*   [Python](#python)
 *   [SCSS](#scss)
 *   [Visual Basic](#visual-basic)
 *   [CSS](#css)
@@ -23,6 +24,24 @@
 *   [CoffeeScript](#coffeescript)
 *   [Arduino](#arduino)
 *   [C#](#c-2)
+
+## Vue
+
+*   [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
+
+## Python
+
+*   [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
+*   [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+*   [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
+*   [dsverdlo/minqlx-plugins](https://github.com/dsverdlo/minqlx-plugins) - Iouonegirl's repository of plugins developed for minqlx.
+*   [mattiZed/minqlx-plugins](https://github.com/mattiZed/minqlx-plugins) - my plugins for minqlx
+*   [tjone270/Quake-Live](https://github.com/tjone270/Quake-Live) - Useful files that you may find handy when putting together/expanding your Quake Live server deployment.
+*   [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+*   [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
+*   [somerandomdude/Iconic](https://github.com/somerandomdude/Iconic) - A minimal set of icons in raster, vector and font formats — free for public use.
+*   [Paaskehare/PyQL](https://github.com/Paaskehare/PyQL) - A QuakeLive Python Library for fetching user information
 
 ## Shell
 
@@ -228,25 +247,10 @@
 *   [paulkinzett/toolbar](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin
 *   [artpolikarpov/fuckyeah](https://github.com/artpolikarpov/fuckyeah) - $('#sexy').slideDown('slow').fuckYeah();
 *   [amsul/pickadate.js](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
-*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-*   [websanova/js-url](https://github.com/websanova/js-url) - url() - A simple, lightweight url parser for JavaScript
 
 ## Rust
 
 *   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-
-## Python
-
-*   [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-*   [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
-*   [dsverdlo/minqlx-plugins](https://github.com/dsverdlo/minqlx-plugins) - Iouonegirl's repository of plugins developed for minqlx.
-*   [mattiZed/minqlx-plugins](https://github.com/mattiZed/minqlx-plugins) - my plugins for minqlx
-*   [tjone270/Quake-Live](https://github.com/tjone270/Quake-Live) - Useful files that you may find handy when putting together/expanding your Quake Live server deployment.
-*   [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
-*   [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
-*   [somerandomdude/Iconic](https://github.com/somerandomdude/Iconic) - A minimal set of icons in raster, vector and font formats — free for public use.
-*   [Paaskehare/PyQL](https://github.com/Paaskehare/PyQL) - A QuakeLive Python Library for fetching user information
 
 ## SCSS
 
