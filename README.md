@@ -27,7 +27,7 @@
 
 ## PHP
 
-*   [YOURLS/google-safe-browsing](https://github.com/YOURLS/google-safe-browsing) - Protect your short URLs with Google Safe Browsing
+*   [YOURLS/google-safe-browsing](https://github.com/YOURLS/google-safe-browsing) - ☂️ Protect your short URLs with Google Safe Browsing
 *   [Flameborn/yourls-sqlite](https://github.com/Flameborn/yourls-sqlite) - SQLite driver for YOURLS
 *   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Y̲our O̲wn U̲R̲L̲ S̲hortener - the 𝑑𝑒 𝑓𝑎𝑐𝑡𝑜 standard self hosted URL shortener in PHP
 *   [tronovav/geoip2-update](https://github.com/tronovav/geoip2-update) - Update Maxmind.com GeoIP2/GeoLite2 databases from your php script, application or via Composer.
