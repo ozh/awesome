@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [PHP](#php)
 *   [Vue](#vue)
 *   [Python](#python)
@@ -12,7 +13,6 @@
 *   [generic](#generic)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
-*   [Rust](#rust)
 *   [SCSS](#scss)
 *   [Visual Basic](#visual-basic)
 *   [CSS](#css)
@@ -24,6 +24,11 @@
 *   [CoffeeScript](#coffeescript)
 *   [Arduino](#arduino)
 *   [C#](#c-2)
+
+## Rust
+
+*   [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 
 ## PHP
 
@@ -247,11 +252,6 @@
 *   [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 *   [Mottie/tablesorter](https://github.com/Mottie/tablesorter) - Github fork of Christian Bach's tablesorter plugin + awesomeness ~
 *   [paulkinzett/toolbar](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin
-*   [artpolikarpov/fuckyeah](https://github.com/artpolikarpov/fuckyeah) - $('#sexy').slideDown('slow').fuckYeah();
-
-## Rust
-
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 
 ## SCSS
 
