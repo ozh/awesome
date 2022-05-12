@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
-*   [Rust](#rust)
 *   [PHP](#php)
+*   [generic](#generic)
+*   [Rust](#rust)
 *   [Vue](#vue)
 *   [Python](#python)
 *   [Shell](#shell)
 *   [Ruby](#ruby)
-*   [generic](#generic)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [SCSS](#scss)
@@ -25,13 +25,9 @@
 *   [Arduino](#arduino)
 *   [C#](#c-2)
 
-## Rust
-
-*   [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-
 ## PHP
 
+*   [auraphp/Aura.SqlQuery](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
 *   [phpseclib/bcmath_compat](https://github.com/phpseclib/bcmath_compat) - PHP 5.x-8.x polyfill for bcmath extension.
 *   [YOURLS/google-safe-browsing](https://github.com/YOURLS/google-safe-browsing) - ☂️ Protect your short URLs with Google Safe Browsing
 *   [Flameborn/yourls-sqlite](https://github.com/Flameborn/yourls-sqlite) - SQLite driver for YOURLS
@@ -133,6 +129,38 @@
 *   [maxmind/geoip-api-php](https://github.com/maxmind/geoip-api-php) - GeoIP Legacy PHP API
 *   [ozh/google-issues-to-github](https://github.com/ozh/google-issues-to-github) - PHP CLI script to migrate issues from a Google Code project to Github
 
+## generic
+
+*   [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+*   [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+*   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
+*   [symfony/polyfill-php70](https://github.com/symfony/polyfill-php70) - This component provides features unavailable in releases prior to PHP 7.0.
+*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
+*   [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
+*   [YOURLS/awesome-yourls](https://github.com/YOURLS/awesome-yourls) - 🎉 A curated list of awesome things related to YOURLS
+*   [craig552uk/git-poem](https://github.com/craig552uk/git-poem) -
+*   [PatrickLouys/no-framework-tutorial](https://github.com/PatrickLouys/no-framework-tutorial) - A small tutorial to show how to create a PHP application without a framework.
+*   [justinmeza/lolcode-spec](https://github.com/justinmeza/lolcode-spec) - LOLCODE language specification archives and development.
+*   [bullgit/ascii-glitches](https://github.com/bullgit/ascii-glitches) - >G̸̡͉̙̫̻̺̝͉̣̩͕͍̓͑̈̒̆̀ͅlitchr̸ - █̿̿̿̿̿̿̿̿̿█̿̿̿̿̿̿̿̿█̿̿̿̿̿̿̿█̿̿̿̿̿̿█̿̿̿̿̿█̿̿̿̿█̿̿̿█̿̿█̿█͇█͇͇█͇͇͇█͇͇͇͇█͇͇͇͇͇█͇͇͇͇͇͇█͇͇͇͇͇͇͇█͇͇͇͇͇͇͇͇█͇͇͇͇͇͇͇͇͇
+*   [TLmaK0/gravizo](https://github.com/TLmaK0/gravizo) - How to include graphviz graphs in github README
+*   [php-cds/php-cds](https://github.com/php-cds/php-cds) - PHP Community Driven Standards
+*   [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
+*   [Braunson/dreamhost-composer-install](https://github.com/Braunson/dreamhost-composer-install) - Getting Composer Installed on Dreamhost's Shared Servers
+*   [benedfit/sparkicons](https://github.com/benedfit/sparkicons) - From the mind of  Mark Boulton - "I’m defining a Sparkicon as a small, inline icon with additional link meta data to describe either the content and/or the behaviour when the user clicks the link."
+*   [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
+*   [ericandrewlewis/web-development-contract](https://github.com/ericandrewlewis/web-development-contract) - Web Development Contract
+*   [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
+*   [YOURLS/YOURLS.pot](https://github.com/YOURLS/YOURLS.pot) - 🌍 Official YOURLS .pot file to create and maintain your own YOURLS translation
+*   [ozh/YOURLS-fr_FR](https://github.com/ozh/YOURLS-fr_FR) - Traduction française de YOURLS
+*   [contributions/contributions](https://github.com/contributions/contributions) -
+
+## Rust
+
+*   [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+
 ## Vue
 
 *   [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
@@ -167,32 +195,6 @@
 *   [dumbstore/dumbstore](https://github.com/dumbstore/dumbstore) - Dumb Apps for Dumb Phones
 *   [usablica/label.css](https://github.com/usablica/label.css) - Just a simply easy way to label each element you want!
 *   [zmoazeni/csscss](https://github.com/zmoazeni/csscss) - A CSS redundancy analyzer that analyzes redundancy.
-
-## generic
-
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-*   [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-*   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
-*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
-*   [symfony/polyfill-php70](https://github.com/symfony/polyfill-php70) - This component provides features unavailable in releases prior to PHP 7.0.
-*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
-*   [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
-*   [YOURLS/awesome-yourls](https://github.com/YOURLS/awesome-yourls) - 🎉 A curated list of awesome things related to YOURLS
-*   [craig552uk/git-poem](https://github.com/craig552uk/git-poem) -
-*   [PatrickLouys/no-framework-tutorial](https://github.com/PatrickLouys/no-framework-tutorial) - A small tutorial to show how to create a PHP application without a framework.
-*   [justinmeza/lolcode-spec](https://github.com/justinmeza/lolcode-spec) - LOLCODE language specification archives and development.
-*   [bullgit/ascii-glitches](https://github.com/bullgit/ascii-glitches) - >G̸̡͉̙̫̻̺̝͉̣̩͕͍̓͑̈̒̆̀ͅlitchr̸ - █̿̿̿̿̿̿̿̿̿█̿̿̿̿̿̿̿̿█̿̿̿̿̿̿̿█̿̿̿̿̿̿█̿̿̿̿̿█̿̿̿̿█̿̿̿█̿̿█̿█͇█͇͇█͇͇͇█͇͇͇͇█͇͇͇͇͇█͇͇͇͇͇͇█͇͇͇͇͇͇͇█͇͇͇͇͇͇͇͇█͇͇͇͇͇͇͇͇͇
-*   [TLmaK0/gravizo](https://github.com/TLmaK0/gravizo) - How to include graphviz graphs in github README
-*   [php-cds/php-cds](https://github.com/php-cds/php-cds) - PHP Community Driven Standards
-*   [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
-*   [Braunson/dreamhost-composer-install](https://github.com/Braunson/dreamhost-composer-install) - Getting Composer Installed on Dreamhost's Shared Servers
-*   [benedfit/sparkicons](https://github.com/benedfit/sparkicons) - From the mind of  Mark Boulton - "I’m defining a Sparkicon as a small, inline icon with additional link meta data to describe either the content and/or the behaviour when the user clicks the link."
-*   [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
-*   [ericandrewlewis/web-development-contract](https://github.com/ericandrewlewis/web-development-contract) - Web Development Contract
-*   [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
-*   [YOURLS/YOURLS.pot](https://github.com/YOURLS/YOURLS.pot) - 🌍 Official YOURLS .pot file to create and maintain your own YOURLS translation
-*   [ozh/YOURLS-fr_FR](https://github.com/ozh/YOURLS-fr_FR) - Traduction française de YOURLS
-*   [contributions/contributions](https://github.com/contributions/contributions) -
 
 ## TypeScript
 
@@ -251,7 +253,6 @@
 *   [cameronmcefee/plax](https://github.com/cameronmcefee/plax) - JQuery powered parallaxing
 *   [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 *   [Mottie/tablesorter](https://github.com/Mottie/tablesorter) - Github fork of Christian Bach's tablesorter plugin + awesomeness ~
-*   [paulkinzett/toolbar](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin
 
 ## SCSS
 
@@ -294,7 +295,6 @@
 *   [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 *   [BlackrockDigital/startbootstrap](https://github.com/BlackrockDigital/startbootstrap) - A library of free and open source Bootstrap themes and templates
 *   [tysonmatanich/viewportSize](https://github.com/tysonmatanich/viewportSize) - Get the size of the CSS viewport using JavaScript.
-*   [johnpolacek/stacktable.js](https://github.com/johnpolacek/stacktable.js) - jQuery plugin for stacking tables on small screens
 
 ## Makefile
 
