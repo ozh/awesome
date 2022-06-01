@@ -126,7 +126,7 @@
 *   [prolificjones82/Redbubble-API](https://github.com/prolificjones82/Redbubble-API) - A homebrew API designed to put your Redbubble products on your webpage. It allows you to pull a users collections and images inside the collections. The API terminates at the point of selecting an individual item, this will send you to the Redbubble website page for that item.
 *   [kriswallsmith/Buzz](https://github.com/kriswallsmith/Buzz) - PHP's lightweight HTTP client
 *   [guzzle/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
-*   [maxmind/geoip-api-php](https://github.com/maxmind/geoip-api-php) - GeoIP Legacy PHP API
+*   [maxmind/geoip-api-php](https://github.com/maxmind/geoip-api-php) - DEPRECATED GeoIP Legacy PHP API
 *   [ozh/google-issues-to-github](https://github.com/ozh/google-issues-to-github) - PHP CLI script to migrate issues from a Google Code project to Github
 
 ## generic
