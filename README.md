@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [PowerShell](#powershell)
 *   [PHP](#php)
 *   [generic](#generic)
 *   [Rust](#rust)
@@ -24,6 +25,10 @@
 *   [CoffeeScript](#coffeescript)
 *   [Arduino](#arduino)
 *   [C#](#c-2)
+
+## PowerShell
+
+*   [shivammathur/php-extensions-windows](https://github.com/shivammathur/php-extensions-windows) - Build PHP extensions for windows
 
 ## PHP
 
@@ -294,7 +299,6 @@
 *   [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
 *   [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 *   [BlackrockDigital/startbootstrap](https://github.com/BlackrockDigital/startbootstrap) - A library of free and open source Bootstrap themes and templates
-*   [tysonmatanich/viewportSize](https://github.com/tysonmatanich/viewportSize) - Get the size of the CSS viewport using JavaScript.
 
 ## Makefile
 
