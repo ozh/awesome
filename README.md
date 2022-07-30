@@ -6,7 +6,7 @@
 
 *   [PowerShell](#powershell)
 *   [PHP](#php)
-*   [generic](#generic)
+*   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [Vue](#vue)
 *   [Python](#python)
@@ -24,7 +24,6 @@
 *   [C++](#c-1)
 *   [CoffeeScript](#coffeescript)
 *   [Arduino](#arduino)
-*   [C#](#c-2)
 
 ## PowerShell
 
@@ -33,7 +32,7 @@
 ## PHP
 
 *   [auraphp/Aura.SqlQuery](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
-*   [phpseclib/bcmath_compat](https://github.com/phpseclib/bcmath_compat) - PHP 5.x-8.x polyfill for bcmath extension.
+*   [phpseclib/bcmath\_compat](https://github.com/phpseclib/bcmath_compat) - PHP 5.x-8.x polyfill for bcmath extension.
 *   [YOURLS/google-safe-browsing](https://github.com/YOURLS/google-safe-browsing) - ☂️ Protect your short URLs with Google Safe Browsing
 *   [Flameborn/yourls-sqlite](https://github.com/Flameborn/yourls-sqlite) - SQLite driver for YOURLS
 *   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Y̲our O̲wn U̲R̲L̲ S̲hortener - the 𝑑𝑒 𝑓𝑎𝑐𝑡𝑜 standard self hosted URL shortener in PHP
@@ -46,7 +45,7 @@
 *   [symfony/polyfill-intl-idn](https://github.com/symfony/polyfill-intl-idn) - This component provides a partial, native PHP implementation for the Intl extension (IDN features).
 *   [symfony/polyfill-intl-normalizer](https://github.com/symfony/polyfill-intl-normalizer) - This component provides a fallback implementation for the Normalizer class provided by the Intl extension.
 *   [enygma/composerclean](https://github.com/enygma/composerclean) - An additional command for Composer that removes configured files/directory
-*   [wikimedia/at-ease](https://github.com/wikimedia/at-ease) - Safe alternative to PHP's "@" error control operator. Mirror from https://gerrit.wikimedia.org/g/at-ease. See https://www.mediawiki.org/wiki/Developer_access for contributing.
+*   [wikimedia/at-ease](https://github.com/wikimedia/at-ease) - Safe alternative to PHP's "@" error control operator. Mirror from https://gerrit.wikimedia.org/g/at-ease. See https://www.mediawiki.org/wiki/Developer\_access for contributing.
 *   [symfony/thanks](https://github.com/symfony/thanks) - Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)!
 *   [YOURLS/composer-installer](https://github.com/YOURLS/composer-installer) - 📦 Install YOURLS plugins with Composer - Work in progress 🚧
 *   [LeoColomb/pomo](https://github.com/LeoColomb/pomo) - Gettext library to translate with I18n
@@ -65,14 +64,14 @@
 *   [thephpleague/skeleton](https://github.com/thephpleague/skeleton) - A skeleton repository for League Packages
 *   [SergeyTsalkov/meekrodb](https://github.com/SergeyTsalkov/meekrodb) - MeekroDB -- The Simple PHP MySQL Library
 *   [ausi/slug-generator](https://github.com/ausi/slug-generator) - Slug Generator Library for PHP, based on Unicode’s CLDR data
-*   [sabre-io/uri](https://github.com/sabre-io/uri) - :earth_asia:  Functions for making sense out of URIs in PHP
+*   [sabre-io/uri](https://github.com/sabre-io/uri) - :earth\_asia:  Functions for making sense out of URIs in PHP
 *   [voku/portable-utf8](https://github.com/voku/portable-utf8) - 🉑 Portable UTF-8 library - performance optimized (unicode) string functions for PHP.
 *   [gilbitron/EasyCSRF](https://github.com/gilbitron/EasyCSRF) - A simple, standalone CSRF protection library
 *   [hevertonfreitas/base65536](https://github.com/hevertonfreitas/base65536) - Base65536 implementation in PHP
 *   [backup-manager/backup-manager](https://github.com/backup-manager/backup-manager) - Database backup manager for dumping to and restoring databases from S3, Dropbox, FTP, SFTP, and Rackspace Cloud
 *   [schmittjoh/php-option](https://github.com/schmittjoh/php-option) - Option Type for PHP
 *   [moagrius/RegexRouter](https://github.com/moagrius/RegexRouter) - PHP class to route with regular expressions.  Extremely small.
-*   [ircmaxell/password_compat](https://github.com/ircmaxell/password_compat) - Compatibility with the password_\* functions that ship with PHP 5.5
+*   [ircmaxell/password\_compat](https://github.com/ircmaxell/password_compat) - Compatibility with the password\_\* functions that ship with PHP 5.5
 *   [coderabbi/phpumoji](https://github.com/coderabbi/phpumoji) - PHPUnit Emoji Result Printer
 *   [myclabs/php-enum](https://github.com/myclabs/php-enum) - The enum PHP is missing, inspired from SplEnum
 *   [Stichoza/phemoji](https://github.com/Stichoza/phemoji) - 🐘 Emojis in PHP. Write code with emojis
@@ -98,8 +97,8 @@
 *   [Tmeister/idea-factory](https://github.com/Tmeister/idea-factory) - Front-end powered user submission and voting system for WordPress
 *   [microweber/screen](https://github.com/microweber/screen) - Website screenshot tool based on PHP and PhantomJS
 *   [hassankhan/config](https://github.com/hassankhan/config) - Config is a lightweight configuration file loader that supports PHP, INI, XML, JSON, and YAML files
-*   [10up/wp_mock](https://github.com/10up/wp_mock) - WordPress API Mocking Framework
-*   [jakeasmith/http_build_url](https://github.com/jakeasmith/http_build_url) - Provides functionality for http_build_url() to projects without pecl_http.
+*   [10up/wp\_mock](https://github.com/10up/wp_mock) - WordPress API Mocking Framework
+*   [jakeasmith/http\_build\_url](https://github.com/jakeasmith/http_build_url) - Provides functionality for http\_build\_url() to projects without pecl\_http.
 *   [ozh/bookmarkletgen](https://github.com/ozh/bookmarkletgen) - PHP class to generate bookmarklets from Javascript code
 *   [docopt/docopt.php](https://github.com/docopt/docopt.php) - Command line argument parser
 *   [Respect/Validation](https://github.com/Respect/Validation) - The most awesome validation engine ever created for PHP
@@ -114,7 +113,7 @@
 *   [thephpleague/oauth2-client](https://github.com/thephpleague/oauth2-client) - Easy integration with OAuth 2.0 service providers.
 *   [nategood/commando](https://github.com/nategood/commando) - An Elegant CLI Library for PHP
 *   [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
-*   [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
+*   [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile\_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
 *   [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 *   [vlucas/valitron](https://github.com/vlucas/valitron) - Valitron is a simple, elegant, stand-alone validation library with NO dependencies
 *   [InterNations/http-mock](https://github.com/InterNations/http-mock) - Mock HTTP requests on the server side in your PHP unit tests
@@ -127,14 +126,8 @@
 *   [YOURLS/YOURLS-unit-tests](https://github.com/YOURLS/YOURLS-unit-tests) - YOURLS Unit Tests
 *   [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
 *   [lucb1e/cookielesscookies](https://github.com/lucb1e/cookielesscookies) - Demo of tracking using etags instead of cookies (or localstorage or anything else)
-*   [paulgibbs/achievements](https://github.com/paulgibbs/achievements) - Achievements gamifies your WordPress site with challenges, badges, and points.
-*   [prolificjones82/Redbubble-API](https://github.com/prolificjones82/Redbubble-API) - A homebrew API designed to put your Redbubble products on your webpage. It allows you to pull a users collections and images inside the collections. The API terminates at the point of selecting an individual item, this will send you to the Redbubble website page for that item.
-*   [kriswallsmith/Buzz](https://github.com/kriswallsmith/Buzz) - PHP's lightweight HTTP client
-*   [guzzle/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
-*   [maxmind/geoip-api-php](https://github.com/maxmind/geoip-api-php) - DEPRECATED GeoIP Legacy PHP API
-*   [ozh/google-issues-to-github](https://github.com/ozh/google-issues-to-github) - PHP CLI script to migrate issues from a Google Code project to Github
 
-## generic
+## miscellaneous
 
 *   [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers
 *   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -155,11 +148,6 @@
 *   [Braunson/dreamhost-composer-install](https://github.com/Braunson/dreamhost-composer-install) - Getting Composer Installed on Dreamhost's Shared Servers
 *   [benedfit/sparkicons](https://github.com/benedfit/sparkicons) - From the mind of  Mark Boulton - "I’m defining a Sparkicon as a small, inline icon with additional link meta data to describe either the content and/or the behaviour when the user clicks the link."
 *   [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
-*   [ericandrewlewis/web-development-contract](https://github.com/ericandrewlewis/web-development-contract) - Web Development Contract
-*   [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
-*   [YOURLS/YOURLS.pot](https://github.com/YOURLS/YOURLS.pot) - 🌍 Official YOURLS .pot file to create and maintain your own YOURLS translation
-*   [ozh/YOURLS-fr_FR](https://github.com/ozh/YOURLS-fr_FR) - Traduction française de YOURLS
-*   [contributions/contributions](https://github.com/contributions/contributions) -
 
 ## Rust
 
@@ -181,8 +169,6 @@
 *   [tjone270/Quake-Live](https://github.com/tjone270/Quake-Live) - Useful files that you may find handy when putting together/expanding your Quake Live server deployment.
 *   [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 *   [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
-*   [somerandomdude/Iconic](https://github.com/somerandomdude/Iconic) - A minimal set of icons in raster, vector and font formats — free for public use.
-*   [Paaskehare/PyQL](https://github.com/Paaskehare/PyQL) - A QuakeLive Python Library for fetching user information
 
 ## Shell
 
@@ -192,14 +178,10 @@
 *   [varunsridharan/action-wp-pot-generator](https://github.com/varunsridharan/action-wp-pot-generator) - Generates POT Files for your wordpress Plugin / Theme based on the content inside Github Repo
 *   [scopatz/nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 *   [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
-*   [nojhan/liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 
 ## Ruby
 
-*   [ozh/top\_100\_PHP_projects](https://github.com/ozh/top\_100\_PHP_projects) - 💯 The 𝗧𝗼𝗽 𝟭𝟬𝟬 𝗣𝗛𝗣 Projects on Github. (𝐿𝑖𝑠𝑡 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒𝑑 𝑏𝑦 𝑎 𝑅𝑢𝑏𝑦 𝑠𝑐𝑟𝑖𝑝𝑡 𝑡ℎ𝑎𝑡 𝑤𝑎𝑠 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒𝑑 𝑏𝑦 𝐴𝐼 !)
-*   [dumbstore/dumbstore](https://github.com/dumbstore/dumbstore) - Dumb Apps for Dumb Phones
-*   [usablica/label.css](https://github.com/usablica/label.css) - Just a simply easy way to label each element you want!
-*   [zmoazeni/csscss](https://github.com/zmoazeni/csscss) - A CSS redundancy analyzer that analyzes redundancy.
+*   [ozh/top\_100\_PHP\_projects](https://github.com/ozh/top_100_PHP_projects) - 💯 The 𝗧𝗼𝗽 𝟭𝟬𝟬 𝗣𝗛𝗣 Projects on Github. (𝐿𝑖𝑠𝑡 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒𝑑 𝑏𝑦 𝑎 𝑅𝑢𝑏𝑦 𝑠𝑐𝑟𝑖𝑝𝑡 𝑡ℎ𝑎𝑡 𝑤𝑎𝑠 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒𝑑 𝑏𝑦 𝐴𝐼 !)
 
 ## TypeScript
 
@@ -243,21 +225,6 @@
 *   [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 *   [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
 *   [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
-*   [ed-lea/jquery-collagePlus](https://github.com/ed-lea/jquery-collagePlus) - Create an image gallery like Google+ Albums
-*   [jakiestfu/Snap.js](https://github.com/jakiestfu/Snap.js) - A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)
-*   [hakimel/Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
-*   [cloudfour/hideShowPassword](https://github.com/cloudfour/hideShowPassword) - Because life's too short to waste time re-typing passwords.
-*   [usablica/widearea](https://github.com/usablica/widearea) - Create expandable textarea and write large amount of text easily.
-*   [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
-*   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
-*   [RadLikeWhoa/Countable](https://github.com/RadLikeWhoa/Countable) - Add live paragraph-, word- and character-counting to an HTML element.
-*   [SlexAxton/yepnope.js](https://github.com/SlexAxton/yepnope.js) - A Script Loader For Your Conditional Builds
-*   [Mikhus/domurl](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript
-*   [LeaVerou/prefixfree](https://github.com/LeaVerou/prefixfree) - Break free from CSS prefix hell!
-*   [geuis/helium-css](https://github.com/geuis/helium-css) - Helium - javascript tool to scan your site and show unused CSS
-*   [cameronmcefee/plax](https://github.com/cameronmcefee/plax) - JQuery powered parallaxing
-*   [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
-*   [Mottie/tablesorter](https://github.com/Mottie/tablesorter) - Github fork of Christian Bach's tablesorter plugin + awesomeness ~
 
 ## SCSS
 
@@ -278,11 +245,6 @@
 *   [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 *   [HubSpot/odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease. #hubspot-open-source
 *   [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css) - This repo is archived. Thanks!
-*   [rstacruz/flatdoc](https://github.com/rstacruz/flatdoc) - Build sites fast from Markdown
-*   [noizwaves/bootstrap-social-buttons](https://github.com/noizwaves/bootstrap-social-buttons) - Social media button styles for Twitter Bootstrap
-*   [andjosh/naked-wordpress](https://github.com/andjosh/naked-wordpress) - Wordpress theme for designers who don't know Wordpress
-*   [webpop/jquery.pin](https://github.com/webpop/jquery.pin) - Pin any element within a container
-*   [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 
 ## Java
 
@@ -307,7 +269,6 @@
 ## C
 
 *   [AOP-PHP/AOP](https://github.com/AOP-PHP/AOP) - AOP in PHP
-*   [FauxFaux/PuTTYTray](https://github.com/FauxFaux/PuTTYTray) - A continuation of Barry Haanstra (haanstra.eu)'s PuTTYTray
 
 ## C++
 
@@ -319,12 +280,7 @@
 
 *   [dmauro/Keypress](https://github.com/dmauro/Keypress) - A keyboard input capturing utility in which any key can be a modifier key.
 *   [morrisjs/morris.js](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs
-*   [easelinc/tourist](https://github.com/easelinc/tourist) - Simple, flexible tours for your app
 
 ## Arduino
 
 *   [ozh/rainbow](https://github.com/ozh/rainbow) - Because everybody loves rainbows.
-
-## C#
-
-*   [phendryx/superputty](https://github.com/phendryx/superputty) - PLEASE DO NOT USE THIS FORK! IT IS QUITE OUTDATED AND DOES NOT INCLUDE UPDATES MADE BY JIM RADFORD, THE ORIGINAL DEVELOPER. USE:
