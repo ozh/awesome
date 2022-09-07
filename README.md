@@ -145,6 +145,7 @@
 *   [TLmaK0/gravizo](https://github.com/TLmaK0/gravizo) - How to include graphviz graphs in github README
 *   [php-cds/php-cds](https://github.com/php-cds/php-cds) - PHP Community Driven Standards
 *   [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
+*   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 *   [Braunson/dreamhost-composer-install](https://github.com/Braunson/dreamhost-composer-install) - Getting Composer Installed on Dreamhost's Shared Servers
 *   [benedfit/sparkicons](https://github.com/benedfit/sparkicons) - From the mind of  Mark Boulton - "I’m defining a Sparkicon as a small, inline icon with additional link meta data to describe either the content and/or the behaviour when the user clicks the link."
 *   [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
@@ -238,7 +239,6 @@
 ## CSS
 
 *   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
-*   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 *   [jackrugile/placeholdem](https://github.com/jackrugile/placeholdem) - Placeholder Caret Animation
 *   [SuperFriendly/project-hub](https://github.com/SuperFriendly/project-hub) - Project Hub
 *   [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)
