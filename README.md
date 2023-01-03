@@ -182,7 +182,7 @@
 
 ## TypeScript
 
-*   [YOURLS/docs](https://github.com/YOURLS/docs) - 📄 Documentation for YOURLS
+*   [YOURLS/docs](https://github.com/YOURLS/docs) - 📝 Website for YOURLS
 *   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 *   [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
 
