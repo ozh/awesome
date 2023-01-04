@@ -11,7 +11,6 @@
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [Ruby](#ruby)
-*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Markdown](#markdown)
 *   [SCSS](#scss)
@@ -23,6 +22,7 @@
 *   [C](#c)
 *   [C++](#c-1)
 *   [CoffeeScript](#coffeescript)
+*   [TypeScript](#typescript)
 *   [Arduino](#arduino)
 
 ## PowerShell
@@ -180,14 +180,9 @@
 
 *   [ozh/top\_100\_PHP\_projects](https://github.com/ozh/top_100_PHP_projects) - 💯 The 𝗧𝗼𝗽 𝟭𝟬𝟬 𝗣𝗛𝗣 Projects on Github. (𝐿𝑖𝑠𝑡 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒𝑑 𝑏𝑦 𝑎 𝑅𝑢𝑏𝑦 𝑠𝑐𝑟𝑖𝑝𝑡 𝑡ℎ𝑎𝑡 𝑤𝑎𝑠 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒𝑑 𝑏𝑦 𝐴𝐼 !)
 
-## TypeScript
-
-*   [YOURLS/docs](https://github.com/YOURLS/docs) - 📝 Website for YOURLS
-*   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
-*   [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
-
 ## JavaScript
 
+*   [YOURLS/website](https://github.com/YOURLS/website) - 📝 Website for YOURLS
 *   [adhesivecheese/kinklist](https://github.com/adhesivecheese/kinklist) - A Kinklist Generator
 *   [SweetmanTech/NFT-Polygon-Minting](https://github.com/SweetmanTech/NFT-Polygon-Minting) - Smart Contract to Mint NFTs on the Polygon Blockchain
 *   [mydea/ember-cli-code-coverage-action](https://github.com/mydea/ember-cli-code-coverage-action) - Comment with the diff for the asset sizes on Pull Request
@@ -280,6 +275,11 @@
 
 *   [dmauro/Keypress](https://github.com/dmauro/Keypress) - A keyboard input capturing utility in which any key can be a modifier key.
 *   [morrisjs/morris.js](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs
+
+## TypeScript
+
+*   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
+*   [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
 
 ## Arduino
 
