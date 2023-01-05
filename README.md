@@ -35,7 +35,7 @@
 *   [phpseclib/bcmath\_compat](https://github.com/phpseclib/bcmath_compat) - PHP 5.x-8.x polyfill for bcmath extension.
 *   [YOURLS/google-safe-browsing](https://github.com/YOURLS/google-safe-browsing) - ☂️ Protect your short URLs with Google Safe Browsing
 *   [Flameborn/yourls-sqlite](https://github.com/Flameborn/yourls-sqlite) - SQLite driver for YOURLS
-*   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Y̲our O̲wn U̲R̲L̲ S̲hortener - the 𝑑𝑒 𝑓𝑎𝑐𝑡𝑜 standard self hosted URL shortener in PHP
+*   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
 *   [tronovav/geoip2-update](https://github.com/tronovav/geoip2-update) - Update Maxmind.com GeoIP2/GeoLite2 databases from your php script, application or via Composer.
 *   [torian257x/ai-php-rubix-wrap](https://github.com/torian257x/ai-php-rubix-wrap) - AI PHP is a wrapper for rubix ml to make AI very approachable
 *   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
@@ -182,7 +182,7 @@
 
 ## JavaScript
 
-*   [YOURLS/website](https://github.com/YOURLS/website) - 📝 Website for YOURLS
+*   [YOURLS/website](https://github.com/YOURLS/website) - 🌐 The website for YOURLS
 *   [adhesivecheese/kinklist](https://github.com/adhesivecheese/kinklist) - A Kinklist Generator
 *   [SweetmanTech/NFT-Polygon-Minting](https://github.com/SweetmanTech/NFT-Polygon-Minting) - Smart Contract to Mint NFTs on the Polygon Blockchain
 *   [mydea/ember-cli-code-coverage-action](https://github.com/mydea/ember-cli-code-coverage-action) - Comment with the diff for the asset sizes on Pull Request
