@@ -182,7 +182,7 @@
 
 ## JavaScript
 
-*   [YOURLS/website](https://github.com/YOURLS/website) - 🌐 The website for YOURLS
+*   [YOURLS/website](https://github.com/YOURLS/website) - 🌐 Website, docs, and blog for YOURLS
 *   [adhesivecheese/kinklist](https://github.com/adhesivecheese/kinklist) - A Kinklist Generator
 *   [SweetmanTech/NFT-Polygon-Minting](https://github.com/SweetmanTech/NFT-Polygon-Minting) - Smart Contract to Mint NFTs on the Polygon Blockchain
 *   [mydea/ember-cli-code-coverage-action](https://github.com/mydea/ember-cli-code-coverage-action) - Comment with the diff for the asset sizes on Pull Request
