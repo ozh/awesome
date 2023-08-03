@@ -195,7 +195,7 @@
 *   [tjmehta/101](https://github.com/tjmehta/101) - A modern JS utility library
 *   [gka/chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations
 *   [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs) - Cross-browser QRCode generator for javascript
-*   [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
+*   [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 *   [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
 *   [datawrapper/datawrapper](https://github.com/datawrapper/datawrapper) - This is a read-only mirror of a part of our codebase.
 *   [mnmly/minimal-counter](https://github.com/mnmly/minimal-counter) - minimal counter
