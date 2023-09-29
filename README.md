@@ -41,23 +41,23 @@
 *   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 *   [delight-im/PHP-Auth](https://github.com/delight-im/PHP-Auth) - Authentication for PHP. Simple, lightweight and secure.
 *   [symfony/polyfill-php72](https://github.com/symfony/polyfill-php72) - This component provides functions added to PHP 7.2 core.
-*   [symfony/polyfill](https://github.com/symfony/polyfill) - PHP polyfills
 *   [symfony/polyfill-intl-idn](https://github.com/symfony/polyfill-intl-idn) - This component provides a partial, native PHP implementation for the Intl extension (IDN features).
 *   [symfony/polyfill-intl-normalizer](https://github.com/symfony/polyfill-intl-normalizer) - This component provides a fallback implementation for the Normalizer class provided by the Intl extension.
+*   [symfony/polyfill](https://github.com/symfony/polyfill) - PHP polyfills
 *   [enygma/composerclean](https://github.com/enygma/composerclean) - An additional command for Composer that removes configured files/directory
 *   [wikimedia/at-ease](https://github.com/wikimedia/at-ease) - Safe alternative to PHP's "@" error control operator. Mirror from https://gerrit.wikimedia.org/g/at-ease. See https://www.mediawiki.org/wiki/Developer\_access for contributing.
-*   [symfony/thanks](https://github.com/symfony/thanks) - Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)!
 *   [YOURLS/composer-installer](https://github.com/YOURLS/composer-installer) - 📦 Install YOURLS plugins with Composer - Work in progress 🚧
-*   [LeoColomb/pomo](https://github.com/LeoColomb/pomo) - Gettext library to translate with I18n
+*   [symfony/thanks](https://github.com/symfony/thanks) - Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)!
 *   [symfony/polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) - This component provides a partial, native PHP implementation for the Mbstring extension.
+*   [LeoColomb/pomo](https://github.com/LeoColomb/pomo) - Gettext library to translate with I18n
 *   [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
-*   [maxmind/web-service-common-php](https://github.com/maxmind/web-service-common-php) - Shared code for the MaxMind Web Service PHP client APIs
 *   [ozh/example-plugin](https://github.com/ozh/example-plugin) - YOURLS example plugin for Composer
 *   [ozh/phpass](https://github.com/ozh/phpass) -  Openwall phpass, namespaced with composer
+*   [maxmind/web-service-common-php](https://github.com/maxmind/web-service-common-php) - Shared code for the MaxMind Web Service PHP client APIs
 *   [composer/ca-bundle](https://github.com/composer/ca-bundle) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
-*   [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
-*   [maxmind/GeoIP2-php](https://github.com/maxmind/GeoIP2-php) - PHP API for GeoIP2 webservice client and database reader
 *   [maxmind/MaxMind-DB-Reader-php](https://github.com/maxmind/MaxMind-DB-Reader-php) - PHP Reader for the MaxMind DB Database Format
+*   [maxmind/GeoIP2-php](https://github.com/maxmind/GeoIP2-php) - PHP API for GeoIP2 webservice client and database reader
+*   [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 *   [auraphp/Aura.Sql](https://github.com/auraphp/Aura.Sql) - SQL database access through PDO.
 *   [wikimedia/composer-merge-plugin](https://github.com/wikimedia/composer-merge-plugin) - Merge one or more additional composer.json files at Composer runtime
 *   [squirrelphp/twig-php-syntax](https://github.com/squirrelphp/twig-php-syntax) - Adds common PHP syntax to twig templates, like ===, foreach and strtotime
