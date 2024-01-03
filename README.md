@@ -118,7 +118,7 @@
 *   [InterNations/http-mock](https://github.com/InterNations/http-mock) - Mock HTTP requests on the server side in your PHP unit tests
 *   [jwage/purl](https://github.com/jwage/purl) - Purl is a simple Object Oriented URL manipulation library for PHP 7.2+
 *   [gabordemooij/redbean](https://github.com/gabordemooij/redbean) - ORM layer that creates models, config and database on the fly
-*   [mikecao/flight](https://github.com/mikecao/flight) - An extensible micro-framework for PHP
+*   [flightphp/core](https://github.com/flightphp/core) - An extensible micro-framework for PHP
 *   [jmathai/epiphany](https://github.com/jmathai/epiphany) - A micro PHP framework that's fast, easy, clean and RESTful. The framework does not do a lot of magic under the hood. It is, by design, very simple and very powerful.
 *   [antecedent/patchwork](https://github.com/antecedent/patchwork) - Method redefinition (monkey-patching) functionality for PHP.
 *   [mpeshev/DX-Plugin-Base](https://github.com/mpeshev/DX-Plugin-Base) - Plugin Framework for rapid WordPress Plugin development!
