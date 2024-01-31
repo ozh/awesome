@@ -40,15 +40,15 @@
 *   [torian257x/ai-php-rubix-wrap](https://github.com/torian257x/ai-php-rubix-wrap) - AI PHP is a wrapper for rubix ml to make AI very approachable
 *   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 *   [delight-im/PHP-Auth](https://github.com/delight-im/PHP-Auth) - Authentication for PHP. Simple, lightweight and secure.
-*   [symfony/polyfill-php72](https://github.com/symfony/polyfill-php72) - This component provides functions added to PHP 7.2 core.
-*   [symfony/polyfill-intl-idn](https://github.com/symfony/polyfill-intl-idn) - This component provides a partial, native PHP implementation for the Intl extension (IDN features).
-*   [symfony/polyfill-intl-normalizer](https://github.com/symfony/polyfill-intl-normalizer) - This component provides a fallback implementation for the Normalizer class provided by the Intl extension.
+*   [symfony/polyfill-php72](https://github.com/symfony/polyfill-php72) - Symfony polyfill backporting some PHP 7.2+ features to lower PHP versions
+*   [symfony/polyfill-intl-idn](https://github.com/symfony/polyfill-intl-idn) - Symfony polyfill for intl's idn\_to\_ascii and idn\_to\_utf8 functions
+*   [symfony/polyfill-intl-normalizer](https://github.com/symfony/polyfill-intl-normalizer) - Symfony polyfill for intl's Normalizer class and related functions
 *   [symfony/polyfill](https://github.com/symfony/polyfill) - PHP polyfills
 *   [enygma/composerclean](https://github.com/enygma/composerclean) - An additional command for Composer that removes configured files/directory
 *   [wikimedia/at-ease](https://github.com/wikimedia/at-ease) - Safe alternative to PHP's "@" error control operator. Mirror from https://gerrit.wikimedia.org/g/at-ease. See https://www.mediawiki.org/wiki/Developer\_access for contributing.
 *   [YOURLS/composer-installer](https://github.com/YOURLS/composer-installer) - 📦 Install YOURLS plugins with Composer - Work in progress 🚧
 *   [symfony/thanks](https://github.com/symfony/thanks) - Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)!
-*   [symfony/polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) - This component provides a partial, native PHP implementation for the Mbstring extension.
+*   [symfony/polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) - Symfony polyfill for the Mbstring extension
 *   [LeoColomb/pomo](https://github.com/LeoColomb/pomo) - Gettext library to translate with I18n
 *   [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 *   [ozh/example-plugin](https://github.com/ozh/example-plugin) - YOURLS example plugin for Composer
