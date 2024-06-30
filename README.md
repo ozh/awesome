@@ -12,7 +12,7 @@
 *   [Shell](#shell)
 *   [Ruby](#ruby)
 *   [JavaScript](#javascript)
-*   [Markdown](#markdown)
+*   [JSON](#json)
 *   [SCSS](#scss)
 *   [Visual Basic](#visual-basic)
 *   [CSS](#css)
@@ -24,6 +24,7 @@
 *   [CoffeeScript](#coffeescript)
 *   [TypeScript](#typescript)
 *   [Arduino](#arduino)
+*   [Markdown](#markdown)
 
 ## PowerShell
 
@@ -216,10 +217,9 @@
 *   [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 *   [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
 
-## Markdown
+## JSON
 
 *   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-*   [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 
 ## SCSS
 
@@ -284,3 +284,7 @@
 ## Arduino
 
 *   [ozh/rainbow](https://github.com/ozh/rainbow) - Because everybody loves rainbows.
+
+## Markdown
+
+*   [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
