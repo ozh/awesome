@@ -84,7 +84,7 @@
 *   [kriswallsmith/assetic](https://github.com/kriswallsmith/assetic) - Asset Management for PHP
 *   [crazycodr/standard-exceptions](https://github.com/crazycodr/standard-exceptions) - A small library that aims at supplementing default exceptions in PHP
 *   [tighten/collect](https://github.com/tighten/collect) - A Collections-only split from Laravel's Illuminate Support
-*   [kint-php/kint](https://github.com/kint-php/kint) - Kint - a powerful and modern PHP debugging tool.
+*   [kint-php/kint](https://github.com/kint-php/kint) - Kint - Advanced PHP dumper
 *   [jimbojsb/pseudo](https://github.com/jimbojsb/pseudo) - A system for mocking PHP PDO connections
 *   [php-pds/skeleton](https://github.com/php-pds/skeleton) - Standard PHP package skeleton.
 *   [ziishaned/git-profile](https://github.com/ziishaned/git-profile) - Utility that helps you switch git configurations with ease.
