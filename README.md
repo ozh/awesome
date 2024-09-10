@@ -41,7 +41,6 @@
 *   [torian257x/ai-php-rubix-wrap](https://github.com/torian257x/ai-php-rubix-wrap) - AI PHP is a wrapper for rubix ml to make AI very approachable
 *   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 *   [delight-im/PHP-Auth](https://github.com/delight-im/PHP-Auth) - Authentication for PHP. Simple, lightweight and secure.
-*   [symfony/polyfill-php72](https://github.com/symfony/polyfill-php72) - Symfony polyfill backporting some PHP 7.2+ features to lower PHP versions
 *   [symfony/polyfill-intl-idn](https://github.com/symfony/polyfill-intl-idn) - Symfony polyfill for intl's idn\_to\_ascii and idn\_to\_utf8 functions
 *   [symfony/polyfill-intl-normalizer](https://github.com/symfony/polyfill-intl-normalizer) - Symfony polyfill for intl's Normalizer class and related functions
 *   [symfony/polyfill](https://github.com/symfony/polyfill) - PHP polyfills
@@ -133,6 +132,7 @@
 *   [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 *   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 *   [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+*   [symfony/polyfill-php72](https://github.com/symfony/polyfill-php72) - Symfony polyfill backporting some PHP 7.2+ features to lower PHP versions
 *   [symfony/polyfill-php70](https://github.com/symfony/polyfill-php70) - This component provides features unavailable in releases prior to PHP 7.0.
 *   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 *   [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
