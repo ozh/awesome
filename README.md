@@ -197,6 +197,7 @@
 *   [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs) - Cross-browser QRCode generator for javascript
 *   [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 *   [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
+*   [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
 *   [mnmly/minimal-counter](https://github.com/mnmly/minimal-counter) - minimal counter
 *   [aaditmshah/augment](https://github.com/aaditmshah/augment) - The world's smallest and fastest classical JavaScript inheritance pattern.
 *   [dieulot/instantclick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant.
@@ -240,7 +241,6 @@
 
 *   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
 *   [SuperFriendly/project-hub](https://github.com/SuperFriendly/project-hub) - Project Hub
-*   [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
 *   [HubSpot/odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease. #hubspot-open-source
 *   [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css) - This repo is archived. Thanks!
 
