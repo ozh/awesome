@@ -243,6 +243,7 @@
 *   [SuperFriendly/project-hub](https://github.com/SuperFriendly/project-hub) - Project Hub
 *   [HubSpot/odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease. #hubspot-open-source
 *   [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css) - This repo is archived. Thanks!
+*   [rstacruz/flatdoc](https://github.com/rstacruz/flatdoc) - Build sites fast from Markdown
 
 ## Java
 
@@ -256,7 +257,6 @@
 *   [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
 *   [cebe/markdown](https://github.com/cebe/markdown) - A super fast, highly extensible markdown parser for PHP
 *   [jolicode/composer-cheatsheet](https://github.com/jolicode/composer-cheatsheet) - :clipboard: Everything you have to know about composer.json in one page.
-*   [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
 *   [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 *   [BlackrockDigital/startbootstrap](https://github.com/BlackrockDigital/startbootstrap) - A library of free and open source Bootstrap themes and templates
 
