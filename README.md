@@ -25,6 +25,7 @@
 *   [CoffeeScript](#coffeescript)
 *   [TypeScript](#typescript)
 *   [Arduino](#arduino)
+*   [C#](#c-2)
 
 ## PowerShell
 
@@ -50,7 +51,6 @@
 *   [symfony/thanks](https://github.com/symfony/thanks) - Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)!
 *   [symfony/polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) - Symfony polyfill for the Mbstring extension
 *   [LeoColomb/pomo](https://github.com/LeoColomb/pomo) - Gettext library to translate with I18n
-*   [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 *   [ozh/example-plugin](https://github.com/ozh/example-plugin) - YOURLS example plugin for Composer
 *   [ozh/phpass](https://github.com/ozh/phpass) -  Openwall phpass, namespaced with composer
 *   [maxmind/web-service-common-php](https://github.com/maxmind/web-service-common-php) - Shared code for the MaxMind Web Service PHP client APIs
@@ -288,3 +288,7 @@
 ## Arduino
 
 *   [ozh/rainbow](https://github.com/ozh/rainbow) - Because everybody loves rainbows.
+
+## C\#
+
+*   [phendryx/superputty](https://github.com/phendryx/superputty) - PLEASE DO NOT USE THIS FORK! IT IS QUITE OUTDATED AND DOES NOT INCLUDE UPDATES MADE BY JIM RADFORD, THE ORIGINAL DEVELOPER. USE:
