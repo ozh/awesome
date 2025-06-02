@@ -28,7 +28,7 @@
 
 ## JavaScript
 
-*   [jflessau/inkday](https://github.com/jflessau/inkday) - Website for uploading an image for each day, shown on an e-ink display.
+*   [jflessau/inkday](https://github.com/jflessau/inkday) - 3D printable frame for a 7.5" e-ink display and a website to control its content.
 *   [YOURLS/website](https://github.com/YOURLS/website) - 🌐 Website, docs, and blog for YOURLS
 *   [adhesivecheese/kinklist](https://github.com/adhesivecheese/kinklist) - A Kinklist Generator
 *   [sweetmantech/NFT-Polygon-Minting](https://github.com/sweetmantech/NFT-Polygon-Minting) - Smart Contract to Mint NFTs on the Polygon Blockchain
