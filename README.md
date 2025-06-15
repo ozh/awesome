@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [JavaScript](#javascript)
 *   [PowerShell](#powershell)
 *   [PHP](#php)
@@ -25,6 +26,10 @@
 *   [CoffeeScript](#coffeescript)
 *   [TypeScript](#typescript)
 *   [Arduino](#arduino)
+
+## Jupyter Notebook
+
+*   [txoof/PaperPi](https://github.com/txoof/PaperPi) - E-Paper display loop with plugins
 
 ## JavaScript
 
@@ -243,7 +248,6 @@
 *   [SuperFriendly/project-hub](https://github.com/SuperFriendly/project-hub) - Project Hub
 *   [HubSpot/odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease. #hubspot-open-source
 *   [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css) - This repo is archived. Thanks!
-*   [rstacruz/flatdoc](https://github.com/rstacruz/flatdoc) - Build sites fast from Markdown
 
 ## Java
 
