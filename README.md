@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [JavaScript](#javascript)
 *   [PowerShell](#powershell)
 *   [PHP](#php)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
-*   [Python](#python)
 *   [Shell](#shell)
 *   [Ruby](#ruby)
 *   [JSON](#json)
@@ -26,6 +26,20 @@
 *   [CoffeeScript](#coffeescript)
 *   [TypeScript](#typescript)
 *   [Arduino](#arduino)
+
+## Python
+
+*   [CBeloch/Inky-Impression-Demo](https://github.com/CBeloch/Inky-Impression-Demo) - Supporting multiple images, different orientations and scale to fit/fill
+*   [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
+*   [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
+*   [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+*   [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
+*   [dsverdlo/minqlx-plugins](https://github.com/dsverdlo/minqlx-plugins) - Iouonegirl's repository of plugins developed for minqlx.
+*   [mattiZed/minqlx-plugins](https://github.com/mattiZed/minqlx-plugins) - my plugins for minqlx
+*   [tjone270/Quake-Live](https://github.com/tjone270/Quake-Live) - Useful files that you may find handy when putting together/expanding your Quake Live server deployment.
+*   [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+*   [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
 
 ## Jupyter Notebook
 
@@ -197,18 +211,6 @@
 *   [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 *   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 
-## Python
-
-*   [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
-*   [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-*   [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
-*   [dsverdlo/minqlx-plugins](https://github.com/dsverdlo/minqlx-plugins) - Iouonegirl's repository of plugins developed for minqlx.
-*   [mattiZed/minqlx-plugins](https://github.com/mattiZed/minqlx-plugins) - my plugins for minqlx
-*   [tjone270/Quake-Live](https://github.com/tjone270/Quake-Live) - Useful files that you may find handy when putting together/expanding your Quake Live server deployment.
-*   [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
-*   [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
-
 ## Shell
 
 *   [YOURLS/YOURLS-test-suite-for-plugins](https://github.com/YOURLS/YOURLS-test-suite-for-plugins) - 🧪 YOURLS test suite for plugins. Write unit tests for your YOURLS plugins!
@@ -229,7 +231,6 @@
 ## Markdown
 
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-*   [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 
 ## SCSS
 
@@ -247,7 +248,6 @@
 *   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
 *   [SuperFriendly/project-hub](https://github.com/SuperFriendly/project-hub) - Project Hub
 *   [HubSpot/odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease. #hubspot-open-source
-*   [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css) - This repo is archived. Thanks!
 
 ## Java
 
