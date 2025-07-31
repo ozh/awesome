@@ -29,10 +29,10 @@
 
 ## Python
 
+*   [NotmoGit/AstroInky](https://github.com/NotmoGit/AstroInky) - A series of python scripts that show astronomical "stuff" on an inky impression spectra 7.3
 *   [CBeloch/Inky-Impression-Demo](https://github.com/CBeloch/Inky-Impression-Demo) - Supporting multiple images, different orientations and scale to fit/fill
 *   [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
 *   [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
-*   [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 *   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 *   [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 *   [dsverdlo/minqlx-plugins](https://github.com/dsverdlo/minqlx-plugins) - Iouonegirl's repository of plugins developed for minqlx.
@@ -114,7 +114,6 @@
 *   [composer/ca-bundle](https://github.com/composer/ca-bundle) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
 *   [maxmind/MaxMind-DB-Reader-php](https://github.com/maxmind/MaxMind-DB-Reader-php) - PHP Reader for the MaxMind DB Database Format
 *   [maxmind/GeoIP2-php](https://github.com/maxmind/GeoIP2-php) - PHP API for GeoIP2 webservice client and database reader
-*   [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 *   [auraphp/Aura.Sql](https://github.com/auraphp/Aura.Sql) - SQL database access through PDO.
 *   [wikimedia/composer-merge-plugin](https://github.com/wikimedia/composer-merge-plugin) - Merge one or more additional composer.json files at Composer runtime
 *   [squirrelphp/twig-php-syntax](https://github.com/squirrelphp/twig-php-syntax) - Adds common PHP syntax to twig templates, like ===, foreach and strtotime
@@ -231,6 +230,7 @@
 ## Markdown
 
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+*   [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 
 ## SCSS
 
