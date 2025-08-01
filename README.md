@@ -29,6 +29,7 @@
 
 ## Python
 
+*   [tymzd/InkMemories](https://github.com/tymzd/InkMemories) - A cloud-powered, eInk, smart photo frame.
 *   [NotmoGit/AstroInky](https://github.com/NotmoGit/AstroInky) - A series of python scripts that show astronomical "stuff" on an inky impression spectra 7.3
 *   [CBeloch/Inky-Impression-Demo](https://github.com/CBeloch/Inky-Impression-Demo) - Supporting multiple images, different orientations and scale to fit/fill
 *   [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
@@ -230,7 +231,6 @@
 ## Markdown
 
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-*   [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 
 ## SCSS
 
