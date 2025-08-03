@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [JavaScript](#javascript)
@@ -11,7 +12,6 @@
 *   [PHP](#php)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
-*   [Shell](#shell)
 *   [Ruby](#ruby)
 *   [JSON](#json)
 *   [Markdown](#markdown)
@@ -26,6 +26,16 @@
 *   [CoffeeScript](#coffeescript)
 *   [TypeScript](#typescript)
 *   [Arduino](#arduino)
+
+## Shell
+
+*   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+*   [YOURLS/YOURLS-test-suite-for-plugins](https://github.com/YOURLS/YOURLS-test-suite-for-plugins) - 🧪 YOURLS test suite for plugins. Write unit tests for your YOURLS plugins!
+*   [mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations](https://github.com/mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations) - How to get Travis CI to test Apache code including vhosts and custom apache code like .htaccess rules or other scripts you have written and need to test using Travis CI's build checker.
+*   [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+*   [varunsridharan/action-wp-pot-generator](https://github.com/varunsridharan/action-wp-pot-generator) - Generates POT Files for your wordpress Plugin / Theme based on the content inside Github Repo
+*   [scopatz/nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
+*   [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 
 ## Python
 
@@ -211,15 +221,6 @@
 *   [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 *   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 
-## Shell
-
-*   [YOURLS/YOURLS-test-suite-for-plugins](https://github.com/YOURLS/YOURLS-test-suite-for-plugins) - 🧪 YOURLS test suite for plugins. Write unit tests for your YOURLS plugins!
-*   [mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations](https://github.com/mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations) - How to get Travis CI to test Apache code including vhosts and custom apache code like .htaccess rules or other scripts you have written and need to test using Travis CI's build checker.
-*   [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
-*   [varunsridharan/action-wp-pot-generator](https://github.com/varunsridharan/action-wp-pot-generator) - Generates POT Files for your wordpress Plugin / Theme based on the content inside Github Repo
-*   [scopatz/nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
-*   [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
-
 ## Ruby
 
 *   [ozh/top\_100\_PHP\_projects](https://github.com/ozh/top_100_PHP_projects) - 💯 The 𝗧𝗼𝗽 𝟭𝟬𝟬 𝗣𝗛𝗣 Projects on Github. (𝐿𝑖𝑠𝑡 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒𝑑 𝑏𝑦 𝑎 𝑅𝑢𝑏𝑦 𝑠𝑐𝑟𝑖𝑝𝑡 𝑡ℎ𝑎𝑡 𝑤𝑎𝑠 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒𝑑 𝑏𝑦 𝐴𝐼 !)
@@ -247,7 +248,6 @@
 *   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
 *   [SuperFriendly/project-hub](https://github.com/SuperFriendly/project-hub) - Project Hub
 *   [HubSpot/odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease. #hubspot-open-source
-*   [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css) - This repo is archived. Thanks!
 
 ## Java
 
