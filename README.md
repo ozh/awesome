@@ -4,10 +4,11 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
+*   [Arduino](#arduino)
 *   [Shell](#shell)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [JavaScript](#javascript)
 *   [PowerShell](#powershell)
 *   [PHP](#php)
 *   [miscellaneous](#miscellaneous)
@@ -25,39 +26,10 @@
 *   [C++](#c-1)
 *   [CoffeeScript](#coffeescript)
 *   [TypeScript](#typescript)
-*   [Arduino](#arduino)
-
-## Shell
-
-*   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-*   [YOURLS/YOURLS-test-suite-for-plugins](https://github.com/YOURLS/YOURLS-test-suite-for-plugins) - 🧪 YOURLS test suite for plugins. Write unit tests for your YOURLS plugins!
-*   [mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations](https://github.com/mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations) - How to get Travis CI to test Apache code including vhosts and custom apache code like .htaccess rules or other scripts you have written and need to test using Travis CI's build checker.
-*   [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
-*   [varunsridharan/action-wp-pot-generator](https://github.com/varunsridharan/action-wp-pot-generator) - Generates POT Files for your wordpress Plugin / Theme based on the content inside Github Repo
-*   [scopatz/nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
-*   [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
-
-## Python
-
-*   [tymzd/InkMemories](https://github.com/tymzd/InkMemories) - A cloud-powered, eInk, smart photo frame.
-*   [NotmoGit/AstroInky](https://github.com/NotmoGit/AstroInky) - A series of python scripts that show astronomical "stuff" on an inky impression spectra 7.3
-*   [CBeloch/Inky-Impression-Demo](https://github.com/CBeloch/Inky-Impression-Demo) - Supporting multiple images, different orientations and scale to fit/fill
-*   [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
-*   [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
-*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-*   [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
-*   [dsverdlo/minqlx-plugins](https://github.com/dsverdlo/minqlx-plugins) - Iouonegirl's repository of plugins developed for minqlx.
-*   [mattiZed/minqlx-plugins](https://github.com/mattiZed/minqlx-plugins) - my plugins for minqlx
-*   [tjone270/Quake-Live](https://github.com/tjone270/Quake-Live) - Useful files that you may find handy when putting together/expanding your Quake Live server deployment.
-*   [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
-*   [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
-
-## Jupyter Notebook
-
-*   [txoof/PaperPi](https://github.com/txoof/PaperPi) - E-Paper display loop with plugins
 
 ## JavaScript
 
+*   [bk1285/rpi\_wordclock](https://github.com/bk1285/rpi_wordclock) - Software to create a Raspberry Pi based wordclock
 *   [jflessau/inkday](https://github.com/jflessau/inkday) - 3D printable frame for a 7.5" e-ink display and a website to control its content.
 *   [YOURLS/website](https://github.com/YOURLS/website) - 🌐 Website, docs, and blog for YOURLS
 *   [adhesivecheese/kinklist](https://github.com/adhesivecheese/kinklist) - A Kinklist Generator
@@ -94,6 +66,39 @@
 *   [simplefocus/FlowType.JS](https://github.com/simplefocus/FlowType.JS) - Web typography at its finest: font-size and line-height based on element width.
 *   [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 *   [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
+
+## Arduino
+
+*   [ozh/rainbow](https://github.com/ozh/rainbow) - Because everybody loves rainbows.
+
+## Shell
+
+*   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+*   [YOURLS/YOURLS-test-suite-for-plugins](https://github.com/YOURLS/YOURLS-test-suite-for-plugins) - 🧪 YOURLS test suite for plugins. Write unit tests for your YOURLS plugins!
+*   [mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations](https://github.com/mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations) - How to get Travis CI to test Apache code including vhosts and custom apache code like .htaccess rules or other scripts you have written and need to test using Travis CI's build checker.
+*   [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+*   [varunsridharan/action-wp-pot-generator](https://github.com/varunsridharan/action-wp-pot-generator) - Generates POT Files for your wordpress Plugin / Theme based on the content inside Github Repo
+*   [scopatz/nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
+*   [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
+
+## Python
+
+*   [tymzd/InkMemories](https://github.com/tymzd/InkMemories) - A cloud-powered, eInk, smart photo frame.
+*   [NotmoGit/AstroInky](https://github.com/NotmoGit/AstroInky) - A series of python scripts that show astronomical "stuff" on an inky impression spectra 7.3
+*   [CBeloch/Inky-Impression-Demo](https://github.com/CBeloch/Inky-Impression-Demo) - Supporting multiple images, different orientations and scale to fit/fill
+*   [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
+*   [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
+*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+*   [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
+*   [dsverdlo/minqlx-plugins](https://github.com/dsverdlo/minqlx-plugins) - Iouonegirl's repository of plugins developed for minqlx.
+*   [mattiZed/minqlx-plugins](https://github.com/mattiZed/minqlx-plugins) - my plugins for minqlx
+*   [tjone270/Quake-Live](https://github.com/tjone270/Quake-Live) - Useful files that you may find handy when putting together/expanding your Quake Live server deployment.
+*   [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+*   [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
+
+## Jupyter Notebook
+
+*   [txoof/PaperPi](https://github.com/txoof/PaperPi) - E-Paper display loop with plugins
 
 ## PowerShell
 
@@ -191,7 +196,6 @@
 *   [mpeshev/DX-Plugin-Base](https://github.com/mpeshev/DX-Plugin-Base) - Plugin Framework for rapid WordPress Plugin development!
 *   [YOURLS/YOURLS-unit-tests](https://github.com/YOURLS/YOURLS-unit-tests) - YOURLS Unit Tests
 *   [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
-*   [lucb1e/cookielesscookies](https://github.com/lucb1e/cookielesscookies) - Demo of tracking using etags instead of cookies (or localstorage or anything else)
 
 ## miscellaneous
 
@@ -288,7 +292,3 @@
 *   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 *   [datawrapper/datawrapper](https://github.com/datawrapper/datawrapper) - Utility functions developed for Datawrapper
 *   [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
-
-## Arduino
-
-*   [ozh/rainbow](https://github.com/ozh/rainbow) - Because everybody loves rainbows.
