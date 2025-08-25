@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Arduino](#arduino)
 *   [Shell](#shell)
-*   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [PowerShell](#powershell)
 *   [PHP](#php)
@@ -26,6 +26,22 @@
 *   [C++](#c-1)
 *   [CoffeeScript](#coffeescript)
 *   [TypeScript](#typescript)
+
+## Python
+
+*   [ozh/cadrephoto](https://github.com/ozh/cadrephoto) - ✉➜🖼️ Email to photo frame for Raspberry + eInk
+*   [tymzd/InkMemories](https://github.com/tymzd/InkMemories) - A cloud-powered, eInk, smart photo frame.
+*   [NotmoGit/AstroInky](https://github.com/NotmoGit/AstroInky) - A series of python scripts that show astronomical "stuff" on an inky impression spectra 7.3
+*   [CBeloch/Inky-Impression-Demo](https://github.com/CBeloch/Inky-Impression-Demo) - Supporting multiple images, different orientations and scale to fit/fill
+*   [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
+*   [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
+*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+*   [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
+*   [dsverdlo/minqlx-plugins](https://github.com/dsverdlo/minqlx-plugins) - Iouonegirl's repository of plugins developed for minqlx.
+*   [mattiZed/minqlx-plugins](https://github.com/mattiZed/minqlx-plugins) - my plugins for minqlx
+*   [tjone270/Quake-Live](https://github.com/tjone270/Quake-Live) - Useful files that you may find handy when putting together/expanding your Quake Live server deployment.
+*   [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+*   [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
 
 ## JavaScript
 
@@ -65,7 +81,6 @@
 *   [jaridmargolin/formatter.js](https://github.com/jaridmargolin/formatter.js) - Format html inputs to match a specified pattern
 *   [simplefocus/FlowType.JS](https://github.com/simplefocus/FlowType.JS) - Web typography at its finest: font-size and line-height based on element width.
 *   [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
-*   [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
 
 ## Arduino
 
@@ -80,21 +95,6 @@
 *   [varunsridharan/action-wp-pot-generator](https://github.com/varunsridharan/action-wp-pot-generator) - Generates POT Files for your wordpress Plugin / Theme based on the content inside Github Repo
 *   [scopatz/nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 *   [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
-
-## Python
-
-*   [tymzd/InkMemories](https://github.com/tymzd/InkMemories) - A cloud-powered, eInk, smart photo frame.
-*   [NotmoGit/AstroInky](https://github.com/NotmoGit/AstroInky) - A series of python scripts that show astronomical "stuff" on an inky impression spectra 7.3
-*   [CBeloch/Inky-Impression-Demo](https://github.com/CBeloch/Inky-Impression-Demo) - Supporting multiple images, different orientations and scale to fit/fill
-*   [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
-*   [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
-*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-*   [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
-*   [dsverdlo/minqlx-plugins](https://github.com/dsverdlo/minqlx-plugins) - Iouonegirl's repository of plugins developed for minqlx.
-*   [mattiZed/minqlx-plugins](https://github.com/mattiZed/minqlx-plugins) - my plugins for minqlx
-*   [tjone270/Quake-Live](https://github.com/tjone270/Quake-Live) - Useful files that you may find handy when putting together/expanding your Quake Live server deployment.
-*   [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
-*   [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
 
 ## Jupyter Notebook
 
