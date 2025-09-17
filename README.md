@@ -5,6 +5,7 @@
 ## Table of Contents
 
 *   [Python](#python)
+*   [C++](#c)
 *   [JavaScript](#javascript)
 *   [Arduino](#arduino)
 *   [Shell](#shell)
@@ -22,13 +23,13 @@
 *   [Java](#java)
 *   [HTML](#html)
 *   [Makefile](#makefile)
-*   [C](#c)
-*   [C++](#c-1)
+*   [C](#c-1)
 *   [CoffeeScript](#coffeescript)
 *   [TypeScript](#typescript)
 
 ## Python
 
+*   [hasibzunair/boss-detector](https://github.com/hasibzunair/boss-detector) - Change monitor screen when your boss is coming towards you!
 *   [ozh/cadrephoto](https://github.com/ozh/cadrephoto) - ✉➜🖼️ Email to photo frame for Raspberry + eInk
 *   [tymzd/InkMemories](https://github.com/tymzd/InkMemories) - A cloud-powered, eInk, smart photo frame.
 *   [NotmoGit/AstroInky](https://github.com/NotmoGit/AstroInky) - A series of python scripts that show astronomical "stuff" on an inky impression spectra 7.3
@@ -42,6 +43,13 @@
 *   [tjone270/Quake-Live](https://github.com/tjone270/Quake-Live) - Useful files that you may find handy when putting together/expanding your Quake Live server deployment.
 *   [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 *   [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
+
+## C++
+
+*   [HarryHighPants/esp32-git-contributions-epd](https://github.com/HarryHighPants/esp32-git-contributions-epd) - Git contributions e-ink display on an esp32
+*   [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
+*   [mneudert/omgrofl-compiler](https://github.com/mneudert/omgrofl-compiler) - compiler/interpreter for omgrofl
+*   [eteeselink/cdhere](https://github.com/eteeselink/cdhere) - Change the current console directory to wherever you're looking at in Windows Explorer
 
 ## JavaScript
 
@@ -79,8 +87,6 @@
 *   [WickyNilliams/headroom.js](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it
 *   [alfajango/jquery-dynatable](https://github.com/alfajango/jquery-dynatable) - A more-fun, semantic, alternative to datatables
 *   [jaridmargolin/formatter.js](https://github.com/jaridmargolin/formatter.js) - Format html inputs to match a specified pattern
-*   [simplefocus/FlowType.JS](https://github.com/simplefocus/FlowType.JS) - Web typography at its finest: font-size and line-height based on element width.
-*   [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 
 ## Arduino
 
@@ -275,12 +281,6 @@
 ## C
 
 *   [AOP-PHP/AOP](https://github.com/AOP-PHP/AOP) - AOP in PHP
-
-## C++
-
-*   [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
-*   [mneudert/omgrofl-compiler](https://github.com/mneudert/omgrofl-compiler) - compiler/interpreter for omgrofl
-*   [eteeselink/cdhere](https://github.com/eteeselink/cdhere) - Change the current console directory to wherever you're looking at in Windows Explorer
 
 ## CoffeeScript
 
