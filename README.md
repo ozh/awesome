@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Python](#python)
 *   [C++](#c)
 *   [JavaScript](#javascript)
 *   [Arduino](#arduino)
-*   [Shell](#shell)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [PowerShell](#powershell)
 *   [PHP](#php)
@@ -26,6 +26,17 @@
 *   [C](#c-1)
 *   [CoffeeScript](#coffeescript)
 *   [TypeScript](#typescript)
+
+## Shell
+
+*   [eznix86/its-a-me-rpi](https://github.com/eznix86/its-a-me-rpi) - Quickly identify your Raspberry Pi with a script that flashes the ACT LED to "It's-a me!" from Mario.
+*   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+*   [YOURLS/YOURLS-test-suite-for-plugins](https://github.com/YOURLS/YOURLS-test-suite-for-plugins) - 🧪 YOURLS test suite for plugins. Write unit tests for your YOURLS plugins!
+*   [mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations](https://github.com/mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations) - How to get Travis CI to test Apache code including vhosts and custom apache code like .htaccess rules or other scripts you have written and need to test using Travis CI's build checker.
+*   [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+*   [varunsridharan/action-wp-pot-generator](https://github.com/varunsridharan/action-wp-pot-generator) - Generates POT Files for your wordpress Plugin / Theme based on the content inside Github Repo
+*   [scopatz/nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
+*   [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 
 ## Python
 
@@ -91,16 +102,6 @@
 ## Arduino
 
 *   [ozh/rainbow](https://github.com/ozh/rainbow) - Because everybody loves rainbows.
-
-## Shell
-
-*   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-*   [YOURLS/YOURLS-test-suite-for-plugins](https://github.com/YOURLS/YOURLS-test-suite-for-plugins) - 🧪 YOURLS test suite for plugins. Write unit tests for your YOURLS plugins!
-*   [mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations](https://github.com/mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations) - How to get Travis CI to test Apache code including vhosts and custom apache code like .htaccess rules or other scripts you have written and need to test using Travis CI's build checker.
-*   [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
-*   [varunsridharan/action-wp-pot-generator](https://github.com/varunsridharan/action-wp-pot-generator) - Generates POT Files for your wordpress Plugin / Theme based on the content inside Github Repo
-*   [scopatz/nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
-*   [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 
 ## Jupyter Notebook
 
@@ -201,7 +202,6 @@
 *   [antecedent/patchwork](https://github.com/antecedent/patchwork) - Method redefinition (monkey-patching) functionality for PHP.
 *   [mpeshev/DX-Plugin-Base](https://github.com/mpeshev/DX-Plugin-Base) - Plugin Framework for rapid WordPress Plugin development!
 *   [YOURLS/YOURLS-unit-tests](https://github.com/YOURLS/YOURLS-unit-tests) - YOURLS Unit Tests
-*   [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
 
 ## miscellaneous
 
