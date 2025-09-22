@@ -29,6 +29,7 @@
 
 ## Shell
 
+*   [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 *   [eznix86/its-a-me-rpi](https://github.com/eznix86/its-a-me-rpi) - Quickly identify your Raspberry Pi with a script that flashes the ACT LED to "It's-a me!" from Mario.
 *   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 *   [YOURLS/YOURLS-test-suite-for-plugins](https://github.com/YOURLS/YOURLS-test-suite-for-plugins) - 🧪 YOURLS test suite for plugins. Write unit tests for your YOURLS plugins!
@@ -224,7 +225,6 @@
 *   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 *   [Braunson/dreamhost-composer-install](https://github.com/Braunson/dreamhost-composer-install) - Getting Composer Installed on Dreamhost's Shared Servers
 *   [benedfit/sparkicons](https://github.com/benedfit/sparkicons) - From the mind of  Mark Boulton - "I’m defining a Sparkicon as a small, inline icon with additional link meta data to describe either the content and/or the behaviour when the user clicks the link."
-*   [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
 
 ## Rust
 
