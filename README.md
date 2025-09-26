@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Python](#python)
 *   [C++](#c)
-*   [JavaScript](#javascript)
 *   [Arduino](#arduino)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [PowerShell](#powershell)
@@ -26,6 +26,44 @@
 *   [C](#c-1)
 *   [CoffeeScript](#coffeescript)
 *   [TypeScript](#typescript)
+
+## JavaScript
+
+*   [syxanash/maxheadbox](https://github.com/syxanash/maxheadbox) - Tiny truly local voice-activated LLM Agent that runs on a Raspberry Pi
+*   [bk1285/rpi\_wordclock](https://github.com/bk1285/rpi_wordclock) - Software to create a Raspberry Pi based wordclock
+*   [jflessau/inkday](https://github.com/jflessau/inkday) - 3D printable frame for a 7.5" e-ink display and a website to control its content.
+*   [YOURLS/website](https://github.com/YOURLS/website) - 🌐 Website, docs, and blog for YOURLS
+*   [adhesivecheese/kinklist](https://github.com/adhesivecheese/kinklist) - A Kinklist Generator
+*   [sweetmantech/NFT-Polygon-Minting](https://github.com/sweetmantech/NFT-Polygon-Minting) - Smart Contract to Mint NFTs on the Polygon Blockchain
+*   [mydea/ember-cli-code-coverage-action](https://github.com/mydea/ember-cli-code-coverage-action) - Comment with the diff for the asset sizes on Pull Request
+*   [docmalkovich/firefox-imdb-search](https://github.com/docmalkovich/firefox-imdb-search) - Firefox web extension - Search highlighted text in IMDb
+*   [r12a/r12a.github.io](https://github.com/r12a/r12a.github.io) - To see the site, go to https://r12a.github.io/
+*   [inbasic/ignotifier](https://github.com/inbasic/ignotifier) - Multiple account Gmail notifier (without storing passwords)
+*   [LeaVerou/stretchy](https://github.com/LeaVerou/stretchy) - Form element autosizing, the way it should be
+*   [ejci/favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
+*   [echofox-team/echofon-firefox-unofficial](https://github.com/echofox-team/echofon-firefox-unofficial) - Echofon Unofficial - maintained version of Echofon: full featured, super clean Twitter app for Firefox.
+*   [arasatasaygin/is.js](https://github.com/arasatasaygin/is.js) - Micro check library
+*   [tjmehta/101](https://github.com/tjmehta/101) - A modern JS utility library
+*   [gka/chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations
+*   [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs) - Cross-browser QRCode generator for javascript
+*   [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
+*   [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
+*   [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
+*   [mnmly/minimal-counter](https://github.com/mnmly/minimal-counter) - minimal counter
+*   [aaditmshah/augment](https://github.com/aaditmshah/augment) - The world's smallest and fastest classical JavaScript inheritance pattern.
+*   [dieulot/instantclick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant.
+*   [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
+*   [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
+*   [soulwire/fit.js](https://github.com/soulwire/fit.js) - Fit things into other things
+*   [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
+*   [dangrossman/daterangepicker](https://github.com/dangrossman/daterangepicker) - JavaScript Date Range, Date and Time Picker Component
+*   [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
+*   [ozh/ascii-tables](https://github.com/ozh/ascii-tables) - ⚡ Quickly format table in ASCII. Great for code comments, or Github Markdown!
+*   [max-mapper/cool-ascii-faces](https://github.com/max-mapper/cool-ascii-faces) - ᕙ༼ຈل͜ຈ༽ᕗ
+*   [carrot/share-button](https://github.com/carrot/share-button) - :warning: :warning: Currently Unmaintained :warning: :warning: - fast, beautiful, and painless social shares:
+*   [WickyNilliams/headroom.js](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it
+*   [alfajango/jquery-dynatable](https://github.com/alfajango/jquery-dynatable) - A more-fun, semantic, alternative to datatables
+*   [jaridmargolin/formatter.js](https://github.com/jaridmargolin/formatter.js) - Format html inputs to match a specified pattern
 
 ## Shell
 
@@ -62,43 +100,6 @@
 *   [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 *   [mneudert/omgrofl-compiler](https://github.com/mneudert/omgrofl-compiler) - compiler/interpreter for omgrofl
 *   [eteeselink/cdhere](https://github.com/eteeselink/cdhere) - Change the current console directory to wherever you're looking at in Windows Explorer
-
-## JavaScript
-
-*   [bk1285/rpi\_wordclock](https://github.com/bk1285/rpi_wordclock) - Software to create a Raspberry Pi based wordclock
-*   [jflessau/inkday](https://github.com/jflessau/inkday) - 3D printable frame for a 7.5" e-ink display and a website to control its content.
-*   [YOURLS/website](https://github.com/YOURLS/website) - 🌐 Website, docs, and blog for YOURLS
-*   [adhesivecheese/kinklist](https://github.com/adhesivecheese/kinklist) - A Kinklist Generator
-*   [sweetmantech/NFT-Polygon-Minting](https://github.com/sweetmantech/NFT-Polygon-Minting) - Smart Contract to Mint NFTs on the Polygon Blockchain
-*   [mydea/ember-cli-code-coverage-action](https://github.com/mydea/ember-cli-code-coverage-action) - Comment with the diff for the asset sizes on Pull Request
-*   [docmalkovich/firefox-imdb-search](https://github.com/docmalkovich/firefox-imdb-search) - Firefox web extension - Search highlighted text in IMDb
-*   [r12a/r12a.github.io](https://github.com/r12a/r12a.github.io) - To see the site, go to https://r12a.github.io/
-*   [inbasic/ignotifier](https://github.com/inbasic/ignotifier) - Multiple account Gmail notifier (without storing passwords)
-*   [LeaVerou/stretchy](https://github.com/LeaVerou/stretchy) - Form element autosizing, the way it should be
-*   [ejci/favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
-*   [echofox-team/echofon-firefox-unofficial](https://github.com/echofox-team/echofon-firefox-unofficial) - Echofon Unofficial - maintained version of Echofon: full featured, super clean Twitter app for Firefox.
-*   [arasatasaygin/is.js](https://github.com/arasatasaygin/is.js) - Micro check library
-*   [tjmehta/101](https://github.com/tjmehta/101) - A modern JS utility library
-*   [gka/chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations
-*   [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs) - Cross-browser QRCode generator for javascript
-*   [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
-*   [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
-*   [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
-*   [mnmly/minimal-counter](https://github.com/mnmly/minimal-counter) - minimal counter
-*   [aaditmshah/augment](https://github.com/aaditmshah/augment) - The world's smallest and fastest classical JavaScript inheritance pattern.
-*   [dieulot/instantclick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant.
-*   [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
-*   [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
-*   [soulwire/fit.js](https://github.com/soulwire/fit.js) - Fit things into other things
-*   [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
-*   [dangrossman/daterangepicker](https://github.com/dangrossman/daterangepicker) - JavaScript Date Range, Date and Time Picker Component
-*   [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
-*   [ozh/ascii-tables](https://github.com/ozh/ascii-tables) - ⚡ Quickly format table in ASCII. Great for code comments, or Github Markdown!
-*   [max-mapper/cool-ascii-faces](https://github.com/max-mapper/cool-ascii-faces) - ᕙ༼ຈل͜ຈ༽ᕗ
-*   [carrot/share-button](https://github.com/carrot/share-button) - :warning: :warning: Currently Unmaintained :warning: :warning: - fast, beautiful, and painless social shares:
-*   [WickyNilliams/headroom.js](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it
-*   [alfajango/jquery-dynatable](https://github.com/alfajango/jquery-dynatable) - A more-fun, semantic, alternative to datatables
-*   [jaridmargolin/formatter.js](https://github.com/jaridmargolin/formatter.js) - Format html inputs to match a specified pattern
 
 ## Arduino
 
@@ -202,7 +203,6 @@
 *   [jmathai/epiphany](https://github.com/jmathai/epiphany) - A micro PHP framework that's fast, easy, clean and RESTful. The framework does not do a lot of magic under the hood. It is, by design, very simple and very powerful.
 *   [antecedent/patchwork](https://github.com/antecedent/patchwork) - Method redefinition (monkey-patching) functionality for PHP.
 *   [mpeshev/DX-Plugin-Base](https://github.com/mpeshev/DX-Plugin-Base) - Plugin Framework for rapid WordPress Plugin development!
-*   [YOURLS/YOURLS-unit-tests](https://github.com/YOURLS/YOURLS-unit-tests) - YOURLS Unit Tests
 
 ## miscellaneous
 
