@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Python](#python)
@@ -26,6 +27,10 @@
 *   [C](#c-1)
 *   [CoffeeScript](#coffeescript)
 *   [TypeScript](#typescript)
+
+## Go
+
+*   [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 
 ## JavaScript
 
@@ -202,7 +207,6 @@
 *   [flightphp/core](https://github.com/flightphp/core) - An extensible micro-framework for PHP
 *   [jmathai/epiphany](https://github.com/jmathai/epiphany) - A micro PHP framework that's fast, easy, clean and RESTful. The framework does not do a lot of magic under the hood. It is, by design, very simple and very powerful.
 *   [antecedent/patchwork](https://github.com/antecedent/patchwork) - Method redefinition (monkey-patching) functionality for PHP.
-*   [mpeshev/DX-Plugin-Base](https://github.com/mpeshev/DX-Plugin-Base) - Plugin Framework for rapid WordPress Plugin development!
 
 ## miscellaneous
 
