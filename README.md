@@ -187,7 +187,7 @@
 *   [hassankhan/config](https://github.com/hassankhan/config) - Config is a lightweight configuration file loader that supports PHP, INI, XML, JSON, and YAML files
 *   [10up/wp\_mock](https://github.com/10up/wp_mock) - WordPress API Mocking Framework
 *   [jakeasmith/http\_build\_url](https://github.com/jakeasmith/http_build_url) - Provides functionality for http\_build\_url() to projects without pecl\_http.
-*   [ozh/bookmarkletgen](https://github.com/ozh/bookmarkletgen) - PHP class to generate bookmarklets from Javascript code
+*   [ozh/bookmarkletgen](https://github.com/ozh/bookmarkletgen) - 🔖 PHP class to generate bookmarklets from Javascript code
 *   [docopt/docopt.php](https://github.com/docopt/docopt.php) - Command line argument parser
 *   [Respect/Validation](https://github.com/Respect/Validation) - The most awesome validation engine ever created for PHP
 *   [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
