@@ -32,7 +32,7 @@
 
 *   [Ozhcar/p4](https://github.com/Ozhcar/p4) - 4 in a Row game, basic display
 *   [hasibzunair/boss-detector](https://github.com/hasibzunair/boss-detector) - Change monitor screen when your boss is coming towards you!
-*   [ozh/cadrephoto](https://github.com/ozh/cadrephoto) - ✉➜🖼️ Email to photo frame for Raspberry + eInk
+*   [ozh/cadrephoto](https://github.com/ozh/cadrephoto) - ✉➜🖼️ Email to photo frame for Raspberry + e-ink. Winner of Github's For The Love Of Code 2025 !
 *   [tymzd/InkMemories](https://github.com/tymzd/InkMemories) - A cloud-powered, eInk, smart photo frame.
 *   [NotmoGit/AstroInky](https://github.com/NotmoGit/AstroInky) - A series of python scripts that show astronomical "stuff" on an inky impression spectra 7.3
 *   [CBeloch/Inky-Impression-Demo](https://github.com/CBeloch/Inky-Impression-Demo) - Supporting multiple images, different orientations and scale to fit/fill
