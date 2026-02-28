@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [PHP](#php)
 *   [Python](#python)
 *   [Go](#go)
 *   [JavaScript](#javascript)
@@ -12,7 +13,6 @@
 *   [Arduino](#arduino)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [PowerShell](#powershell)
-*   [PHP](#php)
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [Ruby](#ruby)
@@ -27,6 +27,95 @@
 *   [C](#c-1)
 *   [CoffeeScript](#coffeescript)
 *   [TypeScript](#typescript)
+
+## PHP
+
+*   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP
+*   [auraphp/Aura.SqlQuery](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
+*   [phpseclib/bcmath\_compat](https://github.com/phpseclib/bcmath_compat) - PHP 5.x-8.x polyfill for bcmath extension.
+*   [YOURLS/google-safe-browsing](https://github.com/YOURLS/google-safe-browsing) - ☂️ Protect your short URLs with Google Safe Browsing
+*   [Flameborn/yourls-sqlite](https://github.com/Flameborn/yourls-sqlite) - SQLite driver for YOURLS
+*   [tronovav/geoip2-update](https://github.com/tronovav/geoip2-update) - Update Maxmind.com GeoIP2/GeoLite2 databases from your php script, application or via Composer.
+*   [torian257x/ai-php-rubix-wrap](https://github.com/torian257x/ai-php-rubix-wrap) - AI PHP is a wrapper for rubix ml to make AI very approachable
+*   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
+*   [delight-im/PHP-Auth](https://github.com/delight-im/PHP-Auth) - Authentication for PHP. Simple, lightweight and secure.
+*   [symfony/polyfill-intl-idn](https://github.com/symfony/polyfill-intl-idn) - Symfony polyfill for intl's idn\_to\_ascii and idn\_to\_utf8 functions
+*   [symfony/polyfill-intl-normalizer](https://github.com/symfony/polyfill-intl-normalizer) - Symfony polyfill for intl's Normalizer class and related functions
+*   [symfony/polyfill](https://github.com/symfony/polyfill) - PHP polyfills
+*   [enygma/composerclean](https://github.com/enygma/composerclean) - An additional command for Composer that removes configured files/directory
+*   [wikimedia/at-ease](https://github.com/wikimedia/at-ease) - Safe alternative to PHP's "@" error control operator. Mirror from https://gerrit.wikimedia.org/g/at-ease. See https://www.mediawiki.org/wiki/Developer\_access for contributing.
+*   [YOURLS/composer-installer](https://github.com/YOURLS/composer-installer) - 📦 Install YOURLS plugins with Composer - Work in progress 🚧
+*   [symfony/thanks](https://github.com/symfony/thanks) - Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)!
+*   [symfony/polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) - Symfony polyfill for the Mbstring extension
+*   [LeoColomb/pomo](https://github.com/LeoColomb/pomo) - Gettext library to translate with I18n
+*   [ozh/example-plugin](https://github.com/ozh/example-plugin) - YOURLS example plugin for Composer
+*   [ozh/phpass](https://github.com/ozh/phpass) -  Openwall phpass, namespaced with composer
+*   [maxmind/web-service-common-php](https://github.com/maxmind/web-service-common-php) - Shared code for the MaxMind Web Service PHP client APIs
+*   [composer/ca-bundle](https://github.com/composer/ca-bundle) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
+*   [maxmind/MaxMind-DB-Reader-php](https://github.com/maxmind/MaxMind-DB-Reader-php) - PHP Reader for the MaxMind DB Database Format
+*   [maxmind/GeoIP2-php](https://github.com/maxmind/GeoIP2-php) - PHP API for GeoIP2 webservice client and database reader
+*   [auraphp/Aura.Sql](https://github.com/auraphp/Aura.Sql) - SQL database access through PDO.
+*   [wikimedia/composer-merge-plugin](https://github.com/wikimedia/composer-merge-plugin) - Merge one or more additional composer.json files at Composer runtime
+*   [squirrelphp/twig-php-syntax](https://github.com/squirrelphp/twig-php-syntax) - Adds common PHP syntax to twig templates, like ===, foreach and strtotime
+*   [thephpleague/skeleton](https://github.com/thephpleague/skeleton) - A skeleton repository for League Packages
+*   [SergeyTsalkov/meekrodb](https://github.com/SergeyTsalkov/meekrodb) - MeekroDB -- The Simple PHP MySQL Library
+*   [ausi/slug-generator](https://github.com/ausi/slug-generator) - Slug Generator Library for PHP, based on Unicode’s CLDR data
+*   [sabre-io/uri](https://github.com/sabre-io/uri) - :earth\_asia:  Functions for making sense out of URIs in PHP
+*   [voku/portable-utf8](https://github.com/voku/portable-utf8) - 🉑 Portable UTF-8 library - performance optimized (unicode) string functions for PHP.
+*   [gilbitron/EasyCSRF](https://github.com/gilbitron/EasyCSRF) - A simple, standalone CSRF protection library
+*   [hevertonfreitas/base65536](https://github.com/hevertonfreitas/base65536) - Base65536 implementation in PHP
+*   [backup-manager/backup-manager](https://github.com/backup-manager/backup-manager) - Database backup manager for dumping to and restoring databases from S3, Dropbox, FTP, SFTP, and Rackspace Cloud
+*   [schmittjoh/php-option](https://github.com/schmittjoh/php-option) - Option Type for PHP
+*   [moagrius/RegexRouter](https://github.com/moagrius/RegexRouter) - PHP class to route with regular expressions.  Extremely small.
+*   [ircmaxell/password\_compat](https://github.com/ircmaxell/password_compat) - Compatibility with the password\_\* functions that ship with PHP 5.5
+*   [coderabbi/phpumoji](https://github.com/coderabbi/phpumoji) - PHPUnit Emoji Result Printer
+*   [myclabs/php-enum](https://github.com/myclabs/php-enum) - The enum PHP is missing, inspired from SplEnum
+*   [Stichoza/phemoji](https://github.com/Stichoza/phemoji) - 🐘 Emojis in PHP. Write code with emojis
+*   [rdlowrey/auryn](https://github.com/rdlowrey/auryn) - IoC Dependency Injector
+*   [tedious/Fetch](https://github.com/tedious/Fetch) - An IMAP library for PHP
+*   [stil/curl-easy](https://github.com/stil/curl-easy) - cURL wrapper for PHP. Supports parallel and non-blocking requests. For high speed crawling, see stil/curl-robot
+*   [CHH/optparse](https://github.com/CHH/optparse) - Another Command Line Argument Parser
+*   [meenie/munee](https://github.com/meenie/munee) - Munee: Standalone PHP 5.3 Asset Optimisation & Manipulation
+*   [kriswallsmith/assetic](https://github.com/kriswallsmith/assetic) - Asset Management for PHP
+*   [crazycodr/standard-exceptions](https://github.com/crazycodr/standard-exceptions) - A small library that aims at supplementing default exceptions in PHP
+*   [tighten/collect](https://github.com/tighten/collect) - A Collections-only split from Laravel's Illuminate Support
+*   [kint-php/kint](https://github.com/kint-php/kint) - Kint - Advanced PHP dumper
+*   [jimbojsb/pseudo](https://github.com/jimbojsb/pseudo) - A system for mocking PHP PDO connections
+*   [php-pds/skeleton](https://github.com/php-pds/skeleton) - Standard PHP package skeleton.
+*   [ziishaned/git-profile](https://github.com/ziishaned/git-profile) - Utility that helps you switch git configurations with ease.
+*   [rchouinard/phpass](https://github.com/rchouinard/phpass) - PHP Password Library: Easy, secure password management for PHP
+*   [cakephp/phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone
+*   [johnpbloch/decisions](https://github.com/johnpbloch/decisions) - Not options
+*   [bandwidth-throttle/token-bucket](https://github.com/bandwidth-throttle/token-bucket) - Implementation of the Token Bucket algorithm in PHP.
+*   [drewm/morse](https://github.com/drewm/morse) - A feature detection library for PHP code that needs to run in multiple different environments
+*   [nette/tracy](https://github.com/nette/tracy) - 😎 Tracy: the addictive tool to ease debugging PHP code for cool developers. Friendly design, logging, profiler, advanced features like debugging AJAX calls or CLI support. You will love it.
+*   [phpLiteAdmin/pla](https://github.com/phpLiteAdmin/pla) - Official github clone of the phpLiteAdmin repository
+*   [Tmeister/idea-factory](https://github.com/Tmeister/idea-factory) - Front-end powered user submission and voting system for WordPress
+*   [microweber-dev/screen](https://github.com/microweber-dev/screen) - Website screenshot tool based on PHP and PhantomJS
+*   [hassankhan/config](https://github.com/hassankhan/config) - Config is a lightweight configuration file loader that supports PHP, INI, XML, JSON, and YAML files
+*   [10up/wp\_mock](https://github.com/10up/wp_mock) - WordPress API Mocking Framework
+*   [jakeasmith/http\_build\_url](https://github.com/jakeasmith/http_build_url) - Provides functionality for http\_build\_url() to projects without pecl\_http.
+*   [ozh/bookmarkletgen](https://github.com/ozh/bookmarkletgen) - 🔖 PHP class to generate bookmarklets from Javascript code
+*   [docopt/docopt.php](https://github.com/docopt/docopt.php) - Command line argument parser
+*   [Respect/Validation](https://github.com/Respect/Validation) - The most awesome validation engine ever created for PHP
+*   [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
+*   [bueltge/wordpress-admin-style](https://github.com/bueltge/wordpress-admin-style) - This plugin reference elements from wp-admin in an overview with the necessary markup and CSS classes to help you to develop WordPress compliant.
+*   [nette/caching](https://github.com/nette/caching) - ⏱ Caching library with easy-to-use API and many cache backends.
+*   [YOURLS/YOURLS-CLI](https://github.com/YOURLS/YOURLS-CLI) - YOURLS Command Line Interface. Work in progress.
+*   [donatj/BeautifulPHPCLI-talk](https://github.com/donatj/BeautifulPHPCLI-talk) - Beautiful PHP CLI Talk Code Samples
+*   [markoheijnen/wp-db-driver](https://github.com/markoheijnen/wp-db-driver) -
+*   [danielstjules/Stringy](https://github.com/danielstjules/Stringy) - A PHP string manipulation library with multibyte support
+*   [thephpleague/oauth2-client](https://github.com/thephpleague/oauth2-client) - Easy integration with OAuth 2.0 service providers.
+*   [nategood/commando](https://github.com/nategood/commando) - An Elegant CLI Library for PHP
+*   [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
+*   [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile\_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
+*   [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
+*   [vlucas/valitron](https://github.com/vlucas/valitron) - Valitron is a simple, elegant, stand-alone validation library with NO dependencies
+*   [InterNations/http-mock](https://github.com/InterNations/http-mock) - Mock HTTP requests on the server side in your PHP unit tests
+*   [jwage/purl](https://github.com/jwage/purl) - Purl is a simple Object Oriented URL manipulation library for PHP 7.2+
+*   [gabordemooij/redbean](https://github.com/gabordemooij/redbean) - ORM layer that creates models, config and database on the fly
+*   [flightphp/core](https://github.com/flightphp/core) - An extensible micro-framework for PHP
+*   [jmathai/epiphany](https://github.com/jmathai/epiphany) - A micro PHP framework that's fast, easy, clean and RESTful. The framework does not do a lot of magic under the hood. It is, by design, very simple and very powerful.
 
 ## Python
 
@@ -119,95 +208,6 @@
 ## PowerShell
 
 *   [shivammathur/php-extensions-windows](https://github.com/shivammathur/php-extensions-windows) - Build PHP extensions for windows
-
-## PHP
-
-*   [auraphp/Aura.SqlQuery](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
-*   [phpseclib/bcmath\_compat](https://github.com/phpseclib/bcmath_compat) - PHP 5.x-8.x polyfill for bcmath extension.
-*   [YOURLS/google-safe-browsing](https://github.com/YOURLS/google-safe-browsing) - ☂️ Protect your short URLs with Google Safe Browsing
-*   [Flameborn/yourls-sqlite](https://github.com/Flameborn/yourls-sqlite) - SQLite driver for YOURLS
-*   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP
-*   [tronovav/geoip2-update](https://github.com/tronovav/geoip2-update) - Update Maxmind.com GeoIP2/GeoLite2 databases from your php script, application or via Composer.
-*   [torian257x/ai-php-rubix-wrap](https://github.com/torian257x/ai-php-rubix-wrap) - AI PHP is a wrapper for rubix ml to make AI very approachable
-*   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
-*   [delight-im/PHP-Auth](https://github.com/delight-im/PHP-Auth) - Authentication for PHP. Simple, lightweight and secure.
-*   [symfony/polyfill-intl-idn](https://github.com/symfony/polyfill-intl-idn) - Symfony polyfill for intl's idn\_to\_ascii and idn\_to\_utf8 functions
-*   [symfony/polyfill-intl-normalizer](https://github.com/symfony/polyfill-intl-normalizer) - Symfony polyfill for intl's Normalizer class and related functions
-*   [symfony/polyfill](https://github.com/symfony/polyfill) - PHP polyfills
-*   [enygma/composerclean](https://github.com/enygma/composerclean) - An additional command for Composer that removes configured files/directory
-*   [wikimedia/at-ease](https://github.com/wikimedia/at-ease) - Safe alternative to PHP's "@" error control operator. Mirror from https://gerrit.wikimedia.org/g/at-ease. See https://www.mediawiki.org/wiki/Developer\_access for contributing.
-*   [YOURLS/composer-installer](https://github.com/YOURLS/composer-installer) - 📦 Install YOURLS plugins with Composer - Work in progress 🚧
-*   [symfony/thanks](https://github.com/symfony/thanks) - Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)!
-*   [symfony/polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) - Symfony polyfill for the Mbstring extension
-*   [LeoColomb/pomo](https://github.com/LeoColomb/pomo) - Gettext library to translate with I18n
-*   [ozh/example-plugin](https://github.com/ozh/example-plugin) - YOURLS example plugin for Composer
-*   [ozh/phpass](https://github.com/ozh/phpass) -  Openwall phpass, namespaced with composer
-*   [maxmind/web-service-common-php](https://github.com/maxmind/web-service-common-php) - Shared code for the MaxMind Web Service PHP client APIs
-*   [composer/ca-bundle](https://github.com/composer/ca-bundle) - Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
-*   [maxmind/MaxMind-DB-Reader-php](https://github.com/maxmind/MaxMind-DB-Reader-php) - PHP Reader for the MaxMind DB Database Format
-*   [maxmind/GeoIP2-php](https://github.com/maxmind/GeoIP2-php) - PHP API for GeoIP2 webservice client and database reader
-*   [auraphp/Aura.Sql](https://github.com/auraphp/Aura.Sql) - SQL database access through PDO.
-*   [wikimedia/composer-merge-plugin](https://github.com/wikimedia/composer-merge-plugin) - Merge one or more additional composer.json files at Composer runtime
-*   [squirrelphp/twig-php-syntax](https://github.com/squirrelphp/twig-php-syntax) - Adds common PHP syntax to twig templates, like ===, foreach and strtotime
-*   [thephpleague/skeleton](https://github.com/thephpleague/skeleton) - A skeleton repository for League Packages
-*   [SergeyTsalkov/meekrodb](https://github.com/SergeyTsalkov/meekrodb) - MeekroDB -- The Simple PHP MySQL Library
-*   [ausi/slug-generator](https://github.com/ausi/slug-generator) - Slug Generator Library for PHP, based on Unicode’s CLDR data
-*   [sabre-io/uri](https://github.com/sabre-io/uri) - :earth\_asia:  Functions for making sense out of URIs in PHP
-*   [voku/portable-utf8](https://github.com/voku/portable-utf8) - 🉑 Portable UTF-8 library - performance optimized (unicode) string functions for PHP.
-*   [gilbitron/EasyCSRF](https://github.com/gilbitron/EasyCSRF) - A simple, standalone CSRF protection library
-*   [hevertonfreitas/base65536](https://github.com/hevertonfreitas/base65536) - Base65536 implementation in PHP
-*   [backup-manager/backup-manager](https://github.com/backup-manager/backup-manager) - Database backup manager for dumping to and restoring databases from S3, Dropbox, FTP, SFTP, and Rackspace Cloud
-*   [schmittjoh/php-option](https://github.com/schmittjoh/php-option) - Option Type for PHP
-*   [moagrius/RegexRouter](https://github.com/moagrius/RegexRouter) - PHP class to route with regular expressions.  Extremely small.
-*   [ircmaxell/password\_compat](https://github.com/ircmaxell/password_compat) - Compatibility with the password\_\* functions that ship with PHP 5.5
-*   [coderabbi/phpumoji](https://github.com/coderabbi/phpumoji) - PHPUnit Emoji Result Printer
-*   [myclabs/php-enum](https://github.com/myclabs/php-enum) - The enum PHP is missing, inspired from SplEnum
-*   [Stichoza/phemoji](https://github.com/Stichoza/phemoji) - 🐘 Emojis in PHP. Write code with emojis
-*   [rdlowrey/auryn](https://github.com/rdlowrey/auryn) - IoC Dependency Injector
-*   [tedious/Fetch](https://github.com/tedious/Fetch) - An IMAP library for PHP
-*   [stil/curl-easy](https://github.com/stil/curl-easy) - cURL wrapper for PHP. Supports parallel and non-blocking requests. For high speed crawling, see stil/curl-robot
-*   [CHH/optparse](https://github.com/CHH/optparse) - Another Command Line Argument Parser
-*   [meenie/munee](https://github.com/meenie/munee) - Munee: Standalone PHP 5.3 Asset Optimisation & Manipulation
-*   [kriswallsmith/assetic](https://github.com/kriswallsmith/assetic) - Asset Management for PHP
-*   [crazycodr/standard-exceptions](https://github.com/crazycodr/standard-exceptions) - A small library that aims at supplementing default exceptions in PHP
-*   [tighten/collect](https://github.com/tighten/collect) - A Collections-only split from Laravel's Illuminate Support
-*   [kint-php/kint](https://github.com/kint-php/kint) - Kint - Advanced PHP dumper
-*   [jimbojsb/pseudo](https://github.com/jimbojsb/pseudo) - A system for mocking PHP PDO connections
-*   [php-pds/skeleton](https://github.com/php-pds/skeleton) - Standard PHP package skeleton.
-*   [ziishaned/git-profile](https://github.com/ziishaned/git-profile) - Utility that helps you switch git configurations with ease.
-*   [rchouinard/phpass](https://github.com/rchouinard/phpass) - PHP Password Library: Easy, secure password management for PHP
-*   [cakephp/phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone
-*   [johnpbloch/decisions](https://github.com/johnpbloch/decisions) - Not options
-*   [bandwidth-throttle/token-bucket](https://github.com/bandwidth-throttle/token-bucket) - Implementation of the Token Bucket algorithm in PHP.
-*   [drewm/morse](https://github.com/drewm/morse) - A feature detection library for PHP code that needs to run in multiple different environments
-*   [nette/tracy](https://github.com/nette/tracy) - 😎 Tracy: the addictive tool to ease debugging PHP code for cool developers. Friendly design, logging, profiler, advanced features like debugging AJAX calls or CLI support. You will love it.
-*   [phpLiteAdmin/pla](https://github.com/phpLiteAdmin/pla) - Official github clone of the phpLiteAdmin repository
-*   [Tmeister/idea-factory](https://github.com/Tmeister/idea-factory) - Front-end powered user submission and voting system for WordPress
-*   [microweber-dev/screen](https://github.com/microweber-dev/screen) - Website screenshot tool based on PHP and PhantomJS
-*   [hassankhan/config](https://github.com/hassankhan/config) - Config is a lightweight configuration file loader that supports PHP, INI, XML, JSON, and YAML files
-*   [10up/wp\_mock](https://github.com/10up/wp_mock) - WordPress API Mocking Framework
-*   [jakeasmith/http\_build\_url](https://github.com/jakeasmith/http_build_url) - Provides functionality for http\_build\_url() to projects without pecl\_http.
-*   [ozh/bookmarkletgen](https://github.com/ozh/bookmarkletgen) - 🔖 PHP class to generate bookmarklets from Javascript code
-*   [docopt/docopt.php](https://github.com/docopt/docopt.php) - Command line argument parser
-*   [Respect/Validation](https://github.com/Respect/Validation) - The most awesome validation engine ever created for PHP
-*   [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
-*   [bueltge/wordpress-admin-style](https://github.com/bueltge/wordpress-admin-style) - This plugin reference elements from wp-admin in an overview with the necessary markup and CSS classes to help you to develop WordPress compliant.
-*   [nette/caching](https://github.com/nette/caching) - ⏱ Caching library with easy-to-use API and many cache backends.
-*   [YOURLS/YOURLS-CLI](https://github.com/YOURLS/YOURLS-CLI) - YOURLS Command Line Interface. Work in progress.
-*   [donatj/BeautifulPHPCLI-talk](https://github.com/donatj/BeautifulPHPCLI-talk) - Beautiful PHP CLI Talk Code Samples
-*   [markoheijnen/wp-db-driver](https://github.com/markoheijnen/wp-db-driver) -
-*   [danielstjules/Stringy](https://github.com/danielstjules/Stringy) - A PHP string manipulation library with multibyte support
-*   [thephpleague/oauth2-client](https://github.com/thephpleague/oauth2-client) - Easy integration with OAuth 2.0 service providers.
-*   [nategood/commando](https://github.com/nategood/commando) - An Elegant CLI Library for PHP
-*   [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
-*   [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile\_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
-*   [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
-*   [vlucas/valitron](https://github.com/vlucas/valitron) - Valitron is a simple, elegant, stand-alone validation library with NO dependencies
-*   [InterNations/http-mock](https://github.com/InterNations/http-mock) - Mock HTTP requests on the server side in your PHP unit tests
-*   [jwage/purl](https://github.com/jwage/purl) - Purl is a simple Object Oriented URL manipulation library for PHP 7.2+
-*   [gabordemooij/redbean](https://github.com/gabordemooij/redbean) - ORM layer that creates models, config and database on the fly
-*   [flightphp/core](https://github.com/flightphp/core) - An extensible micro-framework for PHP
-*   [jmathai/epiphany](https://github.com/jmathai/epiphany) - A micro PHP framework that's fast, easy, clean and RESTful. The framework does not do a lot of magic under the hood. It is, by design, very simple and very powerful.
 
 ## Rust
 
