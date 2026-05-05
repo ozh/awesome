@@ -16,7 +16,6 @@
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [Ruby](#ruby)
-*   [JSON](#json)
 *   [Markdown](#markdown)
 *   [SCSS](#scss)
 *   [Visual Basic](#visual-basic)
@@ -239,12 +238,9 @@
 
 *   [ozh/top\_100\_PHP\_projects](https://github.com/ozh/top_100_PHP_projects) - 💯 The 𝗧𝗼𝗽 𝟭𝟬𝟬 𝗣𝗛𝗣 Projects on Github
 
-## JSON
-
-*   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-
 ## Markdown
 
+*   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## SCSS
